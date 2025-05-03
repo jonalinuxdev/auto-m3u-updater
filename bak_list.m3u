@@ -1,4 +1,15 @@
 #EXTM3U
+# Info: 2025-05-03 22:19 | Canali validi: 12886 | Scartati: 0
+0
+
+#EXTINF:-1 tvg-name="Rai 1" tvg-id="rai1" group-title="italy" tvg-logo="https://i.imgur.com/CAx7yRm.png",Rai 1
+https://streamcdng1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiuno1/hls/rai1_2400/chunklist.m3u8?baseuri=/raiuno1/hls/&tstart=0&tend=1746391547&tk2=3c2a7971e09be67a21b018bd45bf05a0cdc6d1f1f2b157ae13d0b00ef400360a
+
+#EXTINF:-1 tvg-name="Rai 2" tvg-id="rai2" group-title="italy" tvg-logo="https://i.imgur.com/zA0PTcs.png",Rai 2
+https://streamcdng1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/rai2_2400/chunklist.m3u8?baseuri=/raidue1/hls/&tstart=0&tend=1746391625&tk2=1d9883f8d7e669ea026ef5bdd7e689cf402c62b4bb3204270fb6419672f32eed
+
+#EXTINF:-1 tvg-name="Rai 3" tvg-id="rai3" group-title="italy" tvg-logo="https://i.imgur.com/9kuQCIi.png",Rai 3
+https://streamcdng1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raitre1/hls/rai3_2400/chunklist.m3u8?baseuri=/raitre1/hls/&tstart=0&tend=1746391676&tk2=331ad5741910e9c4c75438c0e51c5876e549309e2e4a1a40a8dffb4da5a5d0cd
 #EXTINF:-1 tvg-name="ABN Afghanistan (540p)" tvg-logo="https://i.imgur.com/LI30mAt.png" tvg-id="abnafghanistan" group-title="afghanistan",ABN Afghanistan (540p)
 https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
 
@@ -13403,22 +13414,22 @@ https://hls.iptvservice.eu/hls/ewtn-hd.m3u8
 #EXTINF:-1 tvg-name="Apostol TV" tvg-logo="https://www.apostoltv.hu/images/header-logo.png" tvg-id="apostoltv" group-title="hungary",Apostol TV
 https://live.apostoltv.hu/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="MUSICPlus" tvg-logo="https://raw.githubusercontent.com/JonathanSanfilippo/vision/refs/heads/main/frontend/img/logo.png" tvg-id="musicplus" group-title="hungary",MUSICPlus
+#EXTINF:-1 tvg-name="MUSICPlus" tvg-logo="" tvg-id="musicplus" group-title="hungary",MUSICPlus
 http://s02.diazol.hu:10192/stream.m3u8
 
-#EXTINF:-1 tvg-name="Radio 1 Ⓨ" tvg-logo="https://raw.githubusercontent.com/JonathanSanfilippo/vision/refs/heads/main/frontend/img/logo.png" tvg-id="radio1" group-title="hungary",Radio 1 Ⓨ
+#EXTINF:-1 tvg-name="Radio 1 Ⓨ" tvg-logo="" tvg-id="radio1" group-title="hungary",Radio 1 Ⓨ
 https://www.youtube.com/watch?v=uH-R3i4vvWI
 
-#EXTINF:-1 tvg-name="Oxygen Music" tvg-logo="https://raw.githubusercontent.com/JonathanSanfilippo/vision/refs/heads/main/frontend/img/logo.png" tvg-id="oxygenmusic" group-title="hungary",Oxygen Music
+#EXTINF:-1 tvg-name="Oxygen Music" tvg-logo="" tvg-id="oxygenmusic" group-title="hungary",Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 
 #EXTINF:-1 tvg-name="Euronews Hungarian Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="euronewshungarian" group-title="hungary",Euronews Hungarian Ⓨ
 https://www.youtube.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA/live
 
-#EXTINF:-1 tvg-name="Parlamenti közvetítés" tvg-logo="https://raw.githubusercontent.com/JonathanSanfilippo/vision/refs/heads/main/frontend/img/logo.png" tvg-id="parlamentiközvetítés" group-title="hungary",Parlamenti közvetítés
+#EXTINF:-1 tvg-name="Parlamenti közvetítés" tvg-logo="" tvg-id="parlamentiközvetítés" group-title="hungary",Parlamenti közvetítés
 https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Parlamenti TAB közvetítés" tvg-logo="https://raw.githubusercontent.com/JonathanSanfilippo/vision/refs/heads/main/frontend/img/logo.png" tvg-id="parlamentitabközvetítés" group-title="hungary",Parlamenti TAB közvetítés
+#EXTINF:-1 tvg-name="Parlamenti TAB közvetítés" tvg-logo="" tvg-id="parlamentitabközvetítés" group-title="hungary",Parlamenti TAB közvetítés
 https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Balaton TV" tvg-logo="https://i.imgur.com/ip8L5Vt.jpg" tvg-id="balatontv" group-title="hungary",Balaton TV
@@ -13502,19 +13513,19 @@ https://video.mhzrt.hu/live/mitv/playlist.m3u8
 #EXTINF:-1 tvg-name="Oroszlányi Városi Televízió" tvg-logo="https://i.imgur.com/P0fxUH5.png" tvg-id="oroszlányivárositelevízió" group-title="hungary",Oroszlányi Városi Televízió
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Berente TV" tvg-logo="https://raw.githubusercontent.com/JonathanSanfilippo/vision/refs/heads/main/frontend/img/logo.png" tvg-id="berentetv" group-title="hungary",Berente TV
+#EXTINF:-1 tvg-name="Berente TV" tvg-logo="" tvg-id="berentetv" group-title="hungary",Berente TV
 https://stream.streaming4u.hu/BerenteTV/index.m3u8
 
-#EXTINF:-1 tvg-name="Budapest Európa TV" tvg-logo="https://raw.githubusercontent.com/JonathanSanfilippo/vision/refs/heads/main/frontend/img/logo.png" tvg-id="budapesteurópatv" group-title="hungary",Budapest Európa TV
+#EXTINF:-1 tvg-name="Budapest Európa TV" tvg-logo="" tvg-id="budapesteurópatv" group-title="hungary",Budapest Európa TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Héviz TV" tvg-logo="https://raw.githubusercontent.com/JonathanSanfilippo/vision/refs/heads/main/frontend/img/logo.png" tvg-id="héviztv" group-title="hungary",Héviz TV
+#EXTINF:-1 tvg-name="Héviz TV" tvg-logo="" tvg-id="héviztv" group-title="hungary",Héviz TV
 https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Jászsági Térségi TV" tvg-logo="https://raw.githubusercontent.com/JonathanSanfilippo/vision/refs/heads/main/frontend/img/logo.png" tvg-id="jászságitérségitv" group-title="hungary",Jászsági Térségi TV
+#EXTINF:-1 tvg-name="Jászsági Térségi TV" tvg-logo="" tvg-id="jászságitérségitv" group-title="hungary",Jászsági Térségi TV
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Kanizsa TV" tvg-logo="https://raw.githubusercontent.com/JonathanSanfilippo/vision/refs/heads/main/frontend/img/logo.png" tvg-id="kanizsatv" group-title="hungary",Kanizsa TV
+#EXTINF:-1 tvg-name="Kanizsa TV" tvg-logo="" tvg-id="kanizsatv" group-title="hungary",Kanizsa TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="M5 Hungary" tvg-logo="https://i.imgur.com/qLQz2V6.png" tvg-id="m5hungary" group-title="hungary",M5 Hungary
@@ -15629,7 +15640,7 @@ https://stream.audioxi.com/NOVA
 #EXTINF:-1 tvg-name="Spin 103.8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Spin_400x400.png" tvg-id="spin1038" group-title="ireland",Spin 103.8
 https://stream.audioxi.com/SP
 
-#EXTINF:-1 tvg-name="Newstalk" tvg-logo="https://raw.githubusercontent.com/JonathanSanfilippo/vision/refs/heads/main/frontend/img/logo.png" tvg-id="newstalk" group-title="ireland",Newstalk
+#EXTINF:-1 tvg-name="Newstalk" tvg-logo="" tvg-id="newstalk" group-title="ireland",Newstalk
 https://stream.audioxi.com/NT
 
 #EXTINF:-1 tvg-name="Dublin's Q102" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Dublins_Q102_Logo.png" tvg-id="dublinsq102" group-title="ireland",Dublin's Q102
@@ -18649,9 +18660,6 @@ https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 
 #EXTINF:-1 tvg-name="EBS English Ⓢ" tvg-logo="https://i.imgur.com/qceaIf7.png" tvg-id="ebsenglish" group-title="korea",EBS English Ⓢ
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" tvg-id="kbsworld" group-title="korea",KBS World
-http://ye23.vip/z7z8/2021/kbs2020.php?id=3
 
 #EXTINF:-1 tvg-name="KBS Korea Ⓨ" tvg-logo="https://kbsworldimage.kbs.co.kr/images/layout/logo/logo_korea_n.png" tvg-id="kbskorea" group-title="korea",KBS Korea Ⓨ
 https://www.youtube.com/c/kbsworldtv/live
