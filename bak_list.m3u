@@ -1,5 +1,5 @@
 #EXTM3U
-# Info: 2025-05-04 16:10 | Canali validi: 12924 | Scartati: 0
+# Info: 2025-05-04 17:40 | Canali validi: 12931 | Scartati: 0
 0
 
 #EXTINF:-1 tvg-name="Rai 1" tvg-id="rai1" group-title="italy" tvg-logo="https://i.imgur.com/CAx7yRm.png",Rai 1
@@ -11854,6 +11854,15 @@ https://asiakwa.com/thebasetv/index.m3u8
 #EXTINF:-1 tvg-name="TV BRICS Africa (1080p)" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" tvg-id="tvbricsafrica" group-title="ghana",TV BRICS Africa (1080p)
 https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-name="ERT 1" tvg-logo="https://i.imgur.com/WWMe8IY.png" tvg-id="ert1" group-title="greece",ERT 1
+http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8
+
+#EXTINF:-1 tvg-name="ERT 2" tvg-logo="https://i.imgur.com/pcusPFl.png" tvg-id="ert2" group-title="greece",ERT 2
+http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2medium.m3u8
+
+#EXTINF:-1 tvg-name="ERT 3" tvg-logo="https://i.imgur.com/KyhzDRm.png" tvg-id="ert3" group-title="greece",ERT 3
+http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3medium.m3u8
+
 #EXTINF:-1 tvg-name="ANT1" tvg-logo="https://i.imgur.com/np0s1FN.png" tvg-id="ant1" group-title="greece",ANT1
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8
 
@@ -11877,6 +11886,18 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
 
 #EXTINF:-1 tvg-name="ERT Sports 2" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ertsports2" group-title="greece",ERT Sports 2
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
+
+#EXTINF:-1 tvg-name="ERT Sports 3" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ertsports3" group-title="greece",ERT Sports 3
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8
+
+#EXTINF:-1 tvg-name="ERT Sports 4" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ertsports4" group-title="greece",ERT Sports 4
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4medium.m3u8
+
+#EXTINF:-1 tvg-name="ERT Sports 5" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ertsports5" group-title="greece",ERT Sports 5
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5medium.m3u8
+
+#EXTINF:-1 tvg-name="ERT Sports 6" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ertsports6" group-title="greece",ERT Sports 6
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_6/ert_sports_6medium.m3u8
 
 #EXTINF:-1 tvg-name="Euronews Greek Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="euronewsgreek" group-title="greece",Euronews Greek Ⓨ
 https://www.youtube.com/c/euronewsGreek/live
@@ -18669,6 +18690,9 @@ https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 
 #EXTINF:-1 tvg-name="EBS English Ⓢ" tvg-logo="https://i.imgur.com/qceaIf7.png" tvg-id="ebsenglish" group-title="korea",EBS English Ⓢ
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KBS Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" tvg-id="kbsdrama" group-title="korea",KBS Drama
+http://ye23.vip/z7z8/2021/kbs2020.php?id=5
 
 #EXTINF:-1 tvg-name="KBS Korea Ⓨ" tvg-logo="https://kbsworldimage.kbs.co.kr/images/layout/logo/logo_korea_n.png" tvg-id="kbskorea" group-title="korea",KBS Korea Ⓨ
 https://www.youtube.com/c/kbsworldtv/live
@@ -30579,9 +30603,6 @@ https://media.streambrothers.com:1936/8400/8400/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TVE Star HD (1080p)" tvg-logo="https://i.imgur.com/zsCZHMh.png" tvg-id="tvestar" group-title="suriname",TVE Star HD (1080p)
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
-
-#EXTINF:-1 tvg-name="ATG Live Ⓢ" tvg-logo="https://i.imgur.com/bPWFXkL.png" tvg-id="atglive" group-title="sweden",ATG Live Ⓢ
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
 
 #EXTINF:-1 tvg-name="Expressen TV" tvg-logo="https://i.imgur.com/8EjMSr7.png" tvg-id="expressentv" group-title="sweden",Expressen TV
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
