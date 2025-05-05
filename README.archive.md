@@ -1030,3 +1030,14 @@ May 05 19:49:45 rpi5 list.sh[60953]: 📄 Salvato status.json con 3 canali
 -- No entries --
 ```
 
+## 🔁 Esecuzione del 2025-05-05 21:06
+
+- Canali validi: 12938
+- Scartati: 0
+- Canali RAI aggiunti: 14
+
+### Log
+```bash
+-- No entries --
+```
+

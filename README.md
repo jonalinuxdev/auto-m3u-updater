@@ -1,9 +1,9 @@
 ## 🌐 Ultima esecuzione
 
-- Data: 2025-05-05 20:40
-- Canali validi: 12933
+- Data: 2025-05-05 21:06
+- Canali validi: 12938
 - Scartati: 0
-- Canali RAI aggiunti: 3
+- Canali RAI aggiunti: 14
 
 ## 🧾 Log dettagliato ultima esecuzione
 

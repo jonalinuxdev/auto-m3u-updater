@@ -1,0 +1,713 @@
+{
+  "afghanistan": [
+    "https://iptv-org.github.io/iptv/countries/af.m3u"
+  ],
+  "albania": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_albania.m3u8",
+    "https://iptv-org.github.io/iptv/countries/al.m3u"
+  ],
+  "algeria": [
+    "https://iptv-org.github.io/iptv/countries/dz.m3u"
+  ],
+  "american_samoa": [
+    "https://iptv-org.github.io/iptv/countries/as.m3u"
+  ],
+  "andorra": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_andorra.m3u8",
+    "https://iptv-org.github.io/iptv/countries/ad.m3u"
+  ],
+  "angola": [
+    "https://iptv-org.github.io/iptv/countries/ao.m3u"
+  ],
+  "anguilla": [
+    "https://iptv-org.github.io/iptv/countries/ai.m3u"
+  ],
+  "argentina": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_argentina.m3u8",
+    "https://iptv-org.github.io/iptv/countries/ar.m3u"
+  ],
+  "armenia": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_armenia.m3u8",
+    "https://iptv-org.github.io/iptv/countries/am.m3u"
+  ],
+  "aruba": [
+    "https://iptv-org.github.io/iptv/countries/aw.m3u"
+  ],
+  "australia": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_australia.m3u8",
+    "https://iptv-org.github.io/iptv/countries/au.m3u"
+  ],
+  "austria": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_austria.m3u8",
+    "https://iptv-org.github.io/iptv/countries/at.m3u"
+  ],
+  "azerbaijan": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_azerbaijan.m3u8",
+    "https://iptv-org.github.io/iptv/countries/az.m3u"
+  ],
+  "bahamas": [
+    "https://iptv-org.github.io/iptv/countries/bs.m3u"
+  ],
+  "bahrain": [
+    "https://iptv-org.github.io/iptv/countries/bh.m3u"
+  ],
+  "bangladesh": [
+    "https://iptv-org.github.io/iptv/countries/bd.m3u"
+  ],
+  "barbados": [
+    "https://iptv-org.github.io/iptv/countries/bb.m3u"
+  ],
+  "belarus": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_belarus.m3u8",
+    "https://iptv-org.github.io/iptv/countries/by.m3u"
+  ],
+  "belgium": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_belgium.m3u8",
+    "https://iptv-org.github.io/iptv/countries/be.m3u"
+  ],
+  "belize": [
+    "https://iptv-org.github.io/iptv/countries/bz.m3u"
+  ],
+  "benin": [
+    "https://iptv-org.github.io/iptv/countries/bj.m3u"
+  ],
+  "bermuda": [
+    "https://iptv-org.github.io/iptv/countries/bm.m3u"
+  ],
+  "bhutan": [
+    "https://iptv-org.github.io/iptv/countries/bt.m3u"
+  ],
+  "bolivia": [
+    "https://iptv-org.github.io/iptv/countries/bo.m3u"
+  ],
+  "botswana": [
+    "https://iptv-org.github.io/iptv/countries/bw.m3u"
+  ],
+  "bouvet_island": [
+    "https://iptv-org.github.io/iptv/countries/bv.m3u"
+  ],
+  "brazil": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_brazil.m3u8",
+    "https://iptv-org.github.io/iptv/countries/br.m3u"
+  ],
+  "brunei_darussalam": [
+    "https://iptv-org.github.io/iptv/countries/bn.m3u"
+  ],
+  "bulgaria": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_bulgaria.m3u8",
+    "https://iptv-org.github.io/iptv/countries/bg.m3u"
+  ],
+  "burkina_faso": [
+    "https://iptv-org.github.io/iptv/countries/bf.m3u"
+  ],
+  "burundi": [
+    "https://iptv-org.github.io/iptv/countries/bi.m3u"
+  ],
+  "cabo_verde": [
+    "https://iptv-org.github.io/iptv/countries/cv.m3u"
+  ],
+  "cambodia": [
+    "https://iptv-org.github.io/iptv/countries/kh.m3u"
+  ],
+  "cameroon": [
+    "https://iptv-org.github.io/iptv/countries/cm.m3u"
+  ],
+  "canada": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_canada.m3u8",
+    "https://iptv-org.github.io/iptv/countries/ca.m3u"
+  ],
+  "cayman_islands": [
+    "https://iptv-org.github.io/iptv/countries/ky.m3u"
+  ],
+  "chad": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chad.m3u8",
+    "https://iptv-org.github.io/iptv/countries/td.m3u"
+  ],
+  "chile": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_chile.m3u8",
+    "https://iptv-org.github.io/iptv/countries/cl.m3u"
+  ],
+  "china": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_china.m3u8",
+    "https://iptv-org.github.io/iptv/countries/cn.m3u"
+  ],
+  "colombia": [
+    "https://iptv-org.github.io/iptv/countries/co.m3u"
+  ],
+  "comoros": [
+    "https://iptv-org.github.io/iptv/countries/km.m3u"
+  ],
+  "congo": [
+    "https://iptv-org.github.io/iptv/countries/cd.m3u"
+  ],
+  "cook_islands": [
+    "https://iptv-org.github.io/iptv/countries/ck.m3u"
+  ],
+  "costa_rica": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_costa_rica.m3u8",
+    "https://iptv-org.github.io/iptv/countries/cr.m3u"
+  ],
+  "croatia": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_croatia.m3u8",
+    "https://iptv-org.github.io/iptv/countries/hr.m3u"
+  ],
+  "cuba": [
+    "https://iptv-org.github.io/iptv/countries/cu.m3u"
+  ],
+  "curaçao": [
+    "https://iptv-org.github.io/iptv/countries/cw.m3u"
+  ],
+  "cyprus": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_cyprus.m3u8",
+    "https://iptv-org.github.io/iptv/countries/cy.m3u"
+  ],
+  "denmark": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_denmark.m3u8",
+    "https://iptv-org.github.io/iptv/countries/dk.m3u"
+  ],
+  "djibouti": [
+    "https://iptv-org.github.io/iptv/countries/dj.m3u"
+  ],
+  "dominica": [
+    "https://iptv-org.github.io/iptv/countries/dm.m3u"
+  ],
+  "ecuador": [
+    "https://iptv-org.github.io/iptv/countries/ec.m3u"
+  ],
+  "egypt": [
+    "https://iptv-org.github.io/iptv/countries/eg.m3u"
+  ],
+  "el_salvador": [
+    "https://iptv-org.github.io/iptv/countries/sv.m3u"
+  ],
+  "equatorial_guinea": [
+    "https://iptv-org.github.io/iptv/countries/gq.m3u"
+  ],
+  "eritrea": [
+    "https://iptv-org.github.io/iptv/countries/er.m3u"
+  ],
+  "estonia": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_estonia.m3u8",
+    "https://iptv-org.github.io/iptv/countries/ee.m3u"
+  ],
+  "eswatini": [
+    "https://iptv-org.github.io/iptv/countries/sz.m3u"
+  ],
+  "ethiopia": [
+    "https://iptv-org.github.io/iptv/countries/et.m3u"
+  ],
+  "faroe_islands": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_faroe_islands.m3u8",
+    "https://iptv-org.github.io/iptv/countries/fo.m3u"
+  ],
+  "fiji": [
+    "https://iptv-org.github.io/iptv/countries/fj.m3u"
+  ],
+  "finland": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_finland.m3u8",
+    "https://iptv-org.github.io/iptv/countries/fi.m3u"
+  ],
+  "france": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_france.m3u8",
+    "https://iptv-org.github.io/iptv/countries/fr.m3u"
+  ],
+  "french_polynesia": [
+    "https://iptv-org.github.io/iptv/countries/pf.m3u"
+  ],
+  "gabon": [
+    "https://iptv-org.github.io/iptv/countries/ga.m3u"
+  ],
+  "gambia": [
+    "https://iptv-org.github.io/iptv/countries/gm.m3u"
+  ],
+  "georgia": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_georgia.m3u8",
+    "https://iptv-org.github.io/iptv/countries/ge.m3u"
+  ],
+  "germany": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_germany.m3u8",
+    "https://iptv-org.github.io/iptv/countries/de.m3u"
+  ],
+  "ghana": [
+    "https://iptv-org.github.io/iptv/countries/gh.m3u"
+  ],
+  "greece": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_greece.m3u8",
+    "https://iptv-org.github.io/iptv/countries/gr.m3u"
+  ],
+  "greenland": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_greenland.m3u8",
+    "https://iptv-org.github.io/iptv/countries/gl.m3u"
+  ],
+  "grenada": [
+    "https://iptv-org.github.io/iptv/countries/gd.m3u"
+  ],
+  "guadeloupe": [
+    "https://iptv-org.github.io/iptv/countries/gp.m3u"
+  ],
+  "guam": [
+    "https://iptv-org.github.io/iptv/countries/gu.m3u"
+  ],
+  "guatemala": [
+    "https://iptv-org.github.io/iptv/countries/gt.m3u"
+  ],
+  "guernsey": [
+    "https://iptv-org.github.io/iptv/countries/gg.m3u"
+  ],
+  "guinea": [
+    "https://iptv-org.github.io/iptv/countries/gn.m3u"
+  ],
+  "guinea-bissau": [
+    "https://iptv-org.github.io/iptv/countries/gw.m3u"
+  ],
+  "guinea_bissau": [
+    "https://iptv-org.github.io/iptv/countries/gw.m3u"
+  ],
+  "guyana": [
+    "https://iptv-org.github.io/iptv/countries/gy.m3u"
+  ],
+  "haiti": [
+    "https://iptv-org.github.io/iptv/countries/ht.m3u"
+  ],
+  "honduras": [
+    "https://iptv-org.github.io/iptv/countries/hn.m3u"
+  ],
+  "hong_kong": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_hong_kong.m3u8",
+    "https://iptv-org.github.io/iptv/countries/hk.m3u"
+  ],
+  "hungary": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_hungary.m3u8",
+    "https://iptv-org.github.io/iptv/countries/hu.m3u"
+  ],
+  "iceland": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_iceland.m3u8",
+    "https://iptv-org.github.io/iptv/countries/is.m3u"
+  ],
+  "india": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_india.m3u8",
+    "https://iptv-org.github.io/iptv/countries/in.m3u"
+  ],
+  "indonesia": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_indonesia.m3u8",
+    "https://iptv-org.github.io/iptv/countries/id.m3u"
+  ],
+  "iran": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_iran.m3u8",
+    "https://iptv-org.github.io/iptv/countries/ir.m3u"
+  ],
+  "iraq": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_iraq.m3u8",
+    "https://iptv-org.github.io/iptv/countries/iq.m3u"
+  ],
+  "ireland": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_ireland.m3u8",
+    "https://iptv-org.github.io/iptv/countries/ie.m3u"
+  ],
+  "israel": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_israel.m3u8",
+    "https://iptv-org.github.io/iptv/countries/il.m3u"
+  ],
+  "italy": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_italy.m3u8",
+    "https://iptv-org.github.io/iptv/countries/it.m3u"
+  ],
+  "ivory_coast": [
+    "https://iptv-org.github.io/iptv/countries/ci.m3u"
+  ],
+  "jamaica": [
+    "https://iptv-org.github.io/iptv/countries/jm.m3u"
+  ],
+  "japan": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_japan.m3u8",
+    "https://iptv-org.github.io/iptv/countries/jp.m3u"
+  ],
+  "jordan": [
+    "https://iptv-org.github.io/iptv/countries/jo.m3u"
+  ],
+  "kazakhstan": [
+    "https://iptv-org.github.io/iptv/countries/kz.m3u"
+  ],
+  "kenya": [
+    "https://iptv-org.github.io/iptv/countries/ke.m3u"
+  ],
+  "kiribati": [
+    "https://iptv-org.github.io/iptv/countries/ki.m3u"
+  ],
+  "korea": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_korea.m3u8",
+    "https://iptv-org.github.io/iptv/countries/kr.m3u"
+  ],
+  "kuwait": [
+    "https://iptv-org.github.io/iptv/countries/kw.m3u"
+  ],
+  "kyrgyzstan": [
+    "https://iptv-org.github.io/iptv/countries/kg.m3u"
+  ],
+  "lao_peoples_democratic_republic": [
+    "https://iptv-org.github.io/iptv/countries/la.m3u"
+  ],
+  "latvia": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_latvia.m3u8",
+    "https://iptv-org.github.io/iptv/countries/lv.m3u"
+  ],
+  "lebanon": [
+    "https://iptv-org.github.io/iptv/countries/lb.m3u"
+  ],
+  "lesotho": [
+    "https://iptv-org.github.io/iptv/countries/ls.m3u"
+  ],
+  "liberia": [
+    "https://iptv-org.github.io/iptv/countries/lr.m3u"
+  ],
+  "libya": [
+    "https://iptv-org.github.io/iptv/countries/ly.m3u"
+  ],
+  "liechtenstein": [
+    "https://iptv-org.github.io/iptv/countries/li.m3u"
+  ],
+  "lithuania": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_lithuania.m3u8",
+    "https://iptv-org.github.io/iptv/countries/lt.m3u"
+  ],
+  "luxembourg": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_luxembourg.m3u8",
+    "https://iptv-org.github.io/iptv/countries/lu.m3u"
+  ],
+  "macau": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_macau.m3u8",
+    "https://iptv-org.github.io/iptv/countries/mo.m3u"
+  ],
+  "madagascar": [
+    "https://iptv-org.github.io/iptv/countries/mg.m3u"
+  ],
+  "malawi": [
+    "https://iptv-org.github.io/iptv/countries/mw.m3u"
+  ],
+  "malaysia": [
+    "https://iptv-org.github.io/iptv/countries/my.m3u"
+  ],
+  "maldives": [
+    "https://iptv-org.github.io/iptv/countries/mv.m3u"
+  ],
+  "mali": [
+    "https://iptv-org.github.io/iptv/countries/ml.m3u"
+  ],
+  "malta": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_malta.m3u8",
+    "https://iptv-org.github.io/iptv/countries/mt.m3u"
+  ],
+  "marshall_islands": [
+    "https://iptv-org.github.io/iptv/countries/mh.m3u"
+  ],
+  "martinique": [
+    "https://iptv-org.github.io/iptv/countries/mq.m3u"
+  ],
+  "mauritania": [
+    "https://iptv-org.github.io/iptv/countries/mr.m3u"
+  ],
+  "mauritius": [
+    "https://iptv-org.github.io/iptv/countries/mu.m3u"
+  ],
+  "mayotte": [
+    "https://iptv-org.github.io/iptv/countries/yt.m3u"
+  ],
+  "mexico": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_mexico.m3u8",
+    "https://iptv-org.github.io/iptv/countries/mx.m3u"
+  ],
+  "micronesia": [
+    "https://iptv-org.github.io/iptv/countries/fm.m3u"
+  ],
+  "moldova": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_moldova.m3u8",
+    "https://iptv-org.github.io/iptv/countries/md.m3u"
+  ],
+  "monaco": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_monaco.m3u8",
+    "https://iptv-org.github.io/iptv/countries/mc.m3u"
+  ],
+  "mongolia": [
+    "https://iptv-org.github.io/iptv/countries/mn.m3u"
+  ],
+  "montenegro": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_montenegro.m3u8",
+    "https://iptv-org.github.io/iptv/countries/me.m3u"
+  ],
+  "montserrat": [
+    "https://iptv-org.github.io/iptv/countries/ms.m3u"
+  ],
+  "morocco": [
+    "https://iptv-org.github.io/iptv/countries/ma.m3u"
+  ],
+  "mozambique": [
+    "https://iptv-org.github.io/iptv/countries/mz.m3u"
+  ],
+  "myanmar": [
+    "https://iptv-org.github.io/iptv/countries/mm.m3u"
+  ],
+  "namibia": [
+    "https://iptv-org.github.io/iptv/countries/na.m3u"
+  ],
+  "nauru": [
+    "https://iptv-org.github.io/iptv/countries/nr.m3u"
+  ],
+  "nepal": [
+    "https://iptv-org.github.io/iptv/countries/np.m3u"
+  ],
+  "netherlands": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_netherlands.m3u8",
+    "https://iptv-org.github.io/iptv/countries/nl.m3u"
+  ],
+  "new_caledonia": [
+    "https://iptv-org.github.io/iptv/countries/nc.m3u"
+  ],
+  "new_zealand": [
+    "https://iptv-org.github.io/iptv/countries/nz.m3u"
+  ],
+  "nicaragua": [
+    "https://iptv-org.github.io/iptv/countries/ni.m3u"
+  ],
+  "niger": [
+    "https://iptv-org.github.io/iptv/countries/ne.m3u"
+  ],
+  "nigeria": [
+    "https://iptv-org.github.io/iptv/countries/ng.m3u"
+  ],
+  "niue": [
+    "https://iptv-org.github.io/iptv/countries/nu.m3u"
+  ],
+  "norfolk_island": [
+    "https://iptv-org.github.io/iptv/countries/nf.m3u"
+  ],
+  "north_korea": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_north_korea.m3u8",
+    "https://iptv-org.github.io/iptv/countries/kp.m3u"
+  ],
+  "north_macedonia": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_north_macedonia.m3u8",
+    "https://iptv-org.github.io/iptv/countries/mk.m3u"
+  ],
+  "norway": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_norway.m3u8",
+    "https://iptv-org.github.io/iptv/countries/no.m3u"
+  ],
+  "oman": [
+    "https://iptv-org.github.io/iptv/countries/om.m3u"
+  ],
+  "pakistan": [
+    "https://iptv-org.github.io/iptv/countries/pk.m3u"
+  ],
+  "palau": [
+    "https://iptv-org.github.io/iptv/countries/pw.m3u"
+  ],
+  "panama": [
+    "https://iptv-org.github.io/iptv/countries/pa.m3u"
+  ],
+  "papua_new_guinea": [
+    "https://iptv-org.github.io/iptv/countries/pg.m3u"
+  ],
+  "paraguay": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_paraguay.m3u8",
+    "https://iptv-org.github.io/iptv/countries/py.m3u"
+  ],
+  "peru": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_peru.m3u8",
+    "https://iptv-org.github.io/iptv/countries/pe.m3u"
+  ],
+  "philippines": [
+    "https://iptv-org.github.io/iptv/countries/ph.m3u"
+  ],
+  "pitcairn": [
+    "https://iptv-org.github.io/iptv/countries/pn.m3u"
+  ],
+  "poland": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_poland.m3u8",
+    "https://iptv-org.github.io/iptv/countries/pl.m3u"
+  ],
+  "portugal": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_portugal.m3u8",
+    "https://iptv-org.github.io/iptv/countries/pt.m3u"
+  ],
+  "puerto_rico": [
+    "https://iptv-org.github.io/iptv/countries/pr.m3u"
+  ],
+  "qatar": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_qatar.m3u8",
+    "https://iptv-org.github.io/iptv/countries/qa.m3u"
+  ],
+  "réunion": [
+    "https://iptv-org.github.io/iptv/countries/re.m3u"
+  ],
+  "romania": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_romania.m3u8",
+    "https://iptv-org.github.io/iptv/countries/ro.m3u"
+  ],
+  "russia": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_russia.m3u8",
+    "https://iptv-org.github.io/iptv/countries/ru.m3u"
+  ],
+  "rwanda": [
+    "https://iptv-org.github.io/iptv/countries/rw.m3u"
+  ],
+  "saint_barthélemy": [
+    "https://iptv-org.github.io/iptv/countries/bl.m3u"
+  ],
+  "saint_lucia": [
+    "https://iptv-org.github.io/iptv/countries/lc.m3u"
+  ],
+  "samoa": [
+    "https://iptv-org.github.io/iptv/countries/ws.m3u"
+  ],
+  "san_marino": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_san_marino.m3u8",
+    "https://iptv-org.github.io/iptv/countries/sm.m3u"
+  ],
+  "saudi_arabia": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_saudi_arabia.m3u8",
+    "https://iptv-org.github.io/iptv/countries/sa.m3u"
+  ],
+  "senegal": [
+    "https://iptv-org.github.io/iptv/countries/sn.m3u"
+  ],
+  "serbia": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_serbia.m3u8",
+    "https://iptv-org.github.io/iptv/countries/rs.m3u"
+  ],
+  "seychelles": [
+    "https://iptv-org.github.io/iptv/countries/sc.m3u"
+  ],
+  "sierra_leone": [
+    "https://iptv-org.github.io/iptv/countries/sl.m3u"
+  ],
+  "singapore": [
+    "https://iptv-org.github.io/iptv/countries/sg.m3u"
+  ],
+  "slovakia": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_slovakia.m3u8",
+    "https://iptv-org.github.io/iptv/countries/sk.m3u"
+  ],
+  "slovenia": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_slovenia.m3u8",
+    "https://iptv-org.github.io/iptv/countries/si.m3u"
+  ],
+  "solomon_islands": [
+    "https://iptv-org.github.io/iptv/countries/sb.m3u"
+  ],
+  "somalia": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_somalia.m3u8",
+    "https://iptv-org.github.io/iptv/countries/so.m3u"
+  ],
+  "south_africa": [
+    "https://iptv-org.github.io/iptv/countries/za.m3u"
+  ],
+  "south_sudan": [
+    "https://iptv-org.github.io/iptv/countries/ss.m3u"
+  ],
+  "spain": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_spain.m3u8",
+    "https://iptv-org.github.io/iptv/countries/es.m3u"
+  ],
+  "sudan": [
+    "https://iptv-org.github.io/iptv/countries/sd.m3u"
+  ],
+  "suriname": [
+    "https://iptv-org.github.io/iptv/countries/sr.m3u"
+  ],
+  "sweden": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_sweden.m3u8",
+    "https://iptv-org.github.io/iptv/countries/se.m3u"
+  ],
+  "switzerland": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_switzerland.m3u8",
+    "https://iptv-org.github.io/iptv/countries/ch.m3u"
+  ],
+  "taiwan": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_taiwan.m3u8",
+    "https://iptv-org.github.io/iptv/countries/tw.m3u"
+  ],
+  "tajikistan": [
+    "https://iptv-org.github.io/iptv/countries/tj.m3u"
+  ],
+  "thailand": [
+    "https://iptv-org.github.io/iptv/countries/th.m3u"
+  ],
+  "timor-leste": [
+    "https://iptv-org.github.io/iptv/countries/tl.m3u"
+  ],
+  "timor_leste": [
+    "https://iptv-org.github.io/iptv/countries/tl.m3u"
+  ],
+  "togo": [
+    "https://iptv-org.github.io/iptv/countries/tg.m3u"
+  ],
+  "tokelau": [
+    "https://iptv-org.github.io/iptv/countries/tk.m3u"
+  ],
+  "tonga": [
+    "https://iptv-org.github.io/iptv/countries/to.m3u"
+  ],
+  "trinidad": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_trinidad.m3u8",
+    "https://iptv-org.github.io/iptv/countries/tt.m3u"
+  ],
+  "tunisia": [
+    "https://iptv-org.github.io/iptv/countries/tn.m3u"
+  ],
+  "turkey": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_turkey.m3u8",
+    "https://iptv-org.github.io/iptv/countries/tr.m3u"
+  ],
+  "turkmenistan": [
+    "https://iptv-org.github.io/iptv/countries/tm.m3u"
+  ],
+  "tuvalu": [
+    "https://iptv-org.github.io/iptv/countries/tv.m3u"
+  ],
+  "uganda": [
+    "https://iptv-org.github.io/iptv/countries/ug.m3u"
+  ],
+  "uk": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_uk.m3u8",
+    "https://iptv-org.github.io/iptv/countries/uk.m3u"
+  ],
+  "ukraine": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_ukraine.m3u8",
+    "https://iptv-org.github.io/iptv/countries/ua.m3u"
+  ],
+  "uruguay": [
+    "https://iptv-org.github.io/iptv/countries/uy.m3u"
+  ],
+  "usa": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_usa.m3u8",
+    "https://iptv-org.github.io/iptv/countries/us.m3u"
+  ],
+  "uzbekistan": [
+    "https://iptv-org.github.io/iptv/countries/uz.m3u"
+  ],
+  "vanuatu": [
+    "https://iptv-org.github.io/iptv/countries/vu.m3u"
+  ],
+  "venezuela": [
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_venezuela.m3u8",
+    "https://iptv-org.github.io/iptv/countries/ve.m3u"
+  ],
+  "virgin_isl_us": [
+    "https://iptv-org.github.io/iptv/countries/vi.m3u"
+  ],
+  "wallis_and_futuna": [
+    "https://iptv-org.github.io/iptv/countries/wf.m3u"
+  ],
+  "western_sahara": [
+    "https://iptv-org.github.io/iptv/countries/eh.m3u"
+  ],
+  "yemen": [
+    "https://iptv-org.github.io/iptv/countries/ye.m3u"
+  ],
+  "zambia": [
+    "https://iptv-org.github.io/iptv/countries/zm.m3u"
+  ],
+  "zimbabwe": [
+    "https://iptv-org.github.io/iptv/countries/zw.m3u"
+  ]
+}
