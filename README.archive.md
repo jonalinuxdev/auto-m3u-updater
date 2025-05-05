@@ -70,3 +70,14 @@ May 05 07:09:39 rpi5 systemd[927]: Starting list.service - Esecuzione automatica
 -- No entries --
 ```
 
+## 🔁 Esecuzione del 2025-05-05 08:31
+
+- Canali validi: 3
+- Scartati: 0
+- Canali RAI aggiunti: 3
+
+### Log
+```bash
+-- No entries --
+```
+
