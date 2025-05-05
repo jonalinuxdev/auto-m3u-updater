@@ -1008,3 +1008,14 @@ May 05 19:49:45 rpi5 list.sh[60953]: 📺 Inserimento canali RAI in cima a list.
 May 05 19:49:45 rpi5 list.sh[60953]: 📄 Salvato status.json con 3 canali
 ```
 
+## 🔁 Esecuzione del 2025-05-05 20:07
+
+- Canali validi: 12927
+- Scartati: 0
+- Canali RAI aggiunti: 3
+
+### Log
+```bash
+-- No entries --
+```
+
