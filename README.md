@@ -1,8 +1,9 @@
 ## 🌐 Ultima esecuzione
 
-- Data: 2025-05-05 07:16
-- Canali validi: 0
+- Data: 2025-05-05 07:51
+- Canali validi: 3
 - Scartati: 0
+- Canali RAI aggiunti: 3
 
 ## 🧾 Log dettagliato ultima esecuzione
 
@@ -56,6 +57,17 @@ May 05 07:09:39 rpi5 systemd[927]: Starting list.service - Esecuzione automatica
 
 - Canali validi: 0
 - Scartati: 0
+
+### Log
+```bash
+-- No entries --
+```
+
+## 🔁 Esecuzione del 2025-05-05 07:51
+
+- Canali validi: 3
+- Scartati: 0
+- Canali RAI aggiunti: 3
 
 ### Log
 ```bash
