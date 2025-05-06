@@ -279,9 +279,6 @@ https://89ec2d15e090480bb419d940b8793b9c.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-name="РТР Планета Евро" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" tvg-id="" group-title="albania",РТР Планета Евро
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 
-#EXTINF:-1 tvg-name="2M Monde (360p)" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-id="2mmonde" group-title="algeria",2M Monde (360p)
-#EXTVLCOPT:http-referrer=https://2m.ma
-
 #EXTINF:-1 tvg-name="ABN Africa (480p)" tvg-logo="https://yt3.googleusercontent.com/BhFbqwxiQN89UGI2cpoffye2UuKtblDDUwJHce0fzjpdrMkb0CtKf_42ZVTiLX2Ulwbjey4YZQ=s512-c-k-c0x00ffffff-no-rj" tvg-id="abnafrica" group-title="algeria",ABN Africa (480p)
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
 
@@ -1127,9 +1124,6 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NG Federal (720p)" tvg-logo="https://i.imgur.com/lJCIqYn.png" tvg-id="ngfederal" group-title="argentina",NG Federal (720p)
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
-
-#EXTINF:-1 tvg-name="NHK World News (Spanish Subs) (720p)" tvg-logo="https://i.imgur.com/8dml3im.png" tvg-id="nhkworldnews" group-title="argentina",NHK World News (Spanish Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Novelisima" tvg-logo="https://i.imgur.com/8dUS3Ih.png" tvg-id="novelisima" group-title="argentina",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
@@ -2241,9 +2235,6 @@ https://rdn.essastream.com:3388/live/dajatvlive.m3u8
 #EXTINF:-1 tvg-name="TVE Star HD (1080p)" tvg-logo="https://i.imgur.com/zsCZHMh.png" tvg-id="tvestar" group-title="bahamas",TVE Star HD (1080p)
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
-#EXTINF:-1 tvg-name="2M Monde (360p)" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-id="2mmonde" group-title="bahrain",2M Monde (360p)
-#EXTVLCOPT:http-referrer=https://2m.ma
-
 #EXTINF:-1 tvg-name="Abu Dhabi Sports 1 (1080p)" tvg-logo="https://i.imgur.com/6BVWk8z.png" tvg-id="abudhabisports1" group-title="bahrain",Abu Dhabi Sports 1 (1080p)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 
@@ -3135,9 +3126,6 @@ http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-name="Neo TV (720p)" tvg-logo="https://i.imgur.com/E5diHnn.png" tvg-id="neotv" group-title="bolivia",Neo TV (720p)
 https://tv1.mediacp.eu:3661/live/rlbpwxvhlive.m3u8
 
-#EXTINF:-1 tvg-name="NHK World News (Spanish Subs) (720p)" tvg-logo="https://i.imgur.com/8dml3im.png" tvg-id="nhkworldnews" group-title="bolivia",NHK World News (Spanish Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Novelisima" tvg-logo="https://i.imgur.com/8dUS3Ih.png" tvg-id="novelisima" group-title="bolivia",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 
@@ -3488,9 +3476,6 @@ http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-name="MyTime Movie Network Brazil (720p)" tvg-logo="https://i.imgur.com/aiGQtzI.png" tvg-id="mytimemovienetworkbrazil" group-title="brazil",MyTime Movie Network Brazil (720p)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="NHK World News (Spanish Subs) (720p)" tvg-logo="https://i.imgur.com/8dml3im.png" tvg-id="nhkworldnews" group-title="brazil",NHK World News (Spanish Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Nova TV Agrotour (360p)" tvg-logo="https://i.imgur.com/cgN2hfm.png" tvg-id="novatvagrotour" group-title="brazil",Nova TV Agrotour (360p)
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
@@ -4485,9 +4470,6 @@ https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
 #EXTINF:-1 tvg-name="SCBC Television (1080p)" tvg-logo="https://i.imgur.com/49hhll2.png" tvg-id="scbctelevision" group-title="cameroon",SCBC Television (1080p)
 https://cdn.scbcmedia.com/scbctelevision/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Sun+ TV (720p)" tvg-logo="https://i.imgur.com/5XCXWy7.png" tvg-id="suntv" group-title="cameroon",Sun+ TV (720p)
-https://sunplustv.mboahost.biz:8181/live/chainesuntv/index.m3u8
-
 #EXTINF:-1 tvg-name="TBN Africa (1080p)" tvg-logo="https://i.imgur.com/6VjLFmR.png" tvg-id="tbnafrica" group-title="cameroon",TBN Africa (1080p)
 https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/master.m3u8
 
@@ -5444,9 +5426,6 @@ https://mediacpstreamchile.com:1936/nativa3/nativa3/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NCTV (1080p)" tvg-logo="https://i.imgur.com/oo5vDBv.png" tvg-id="nctv" group-title="chile",NCTV (1080p)
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="NHK World News (Spanish Subs) (720p)" tvg-logo="https://i.imgur.com/8dml3im.png" tvg-id="nhkworldnews" group-title="chile",NHK World News (Spanish Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Nortevisión (720p)" tvg-logo="https://i.imgur.com/0ZlJ3Vm.png" tvg-id="nortevisin" group-title="chile",Nortevisión (720p)
 https://live.tvcontrolcp.com:1936/nortevision/nortevision/playlist.m3u8
@@ -6426,9 +6405,6 @@ http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-name="Multicanal Televisión (720p)" tvg-logo="https://i.imgur.com/hPxt2OK.png" tvg-id="multicanaltelevisin" group-title="colombia",Multicanal Televisión (720p)
 https://ssh101-fl.bozztv.com/ssh101/multicanal/index.m3u8
 
-#EXTINF:-1 tvg-name="NHK World News (Spanish Subs) (720p)" tvg-logo="https://i.imgur.com/8dml3im.png" tvg-id="nhkworldnews" group-title="colombia",NHK World News (Spanish Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Novelisima" tvg-logo="https://i.imgur.com/8dUS3Ih.png" tvg-id="novelisima" group-title="colombia",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 
@@ -6611,9 +6587,6 @@ http://190.2.212.209:8050/play/a0n2
 
 #EXTINF:-1 tvg-name="Zoom (1080p)" tvg-logo="https://i.imgur.com/euy5zp6.png" tvg-id="zoom" group-title="colombia",Zoom (1080p)
 #EXTVLCOPT:http-referrer=https://canalzoom.org/senal-en-vivo
-
-#EXTINF:-1 tvg-name="2M Monde (360p)" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-id="2mmonde" group-title="comoros",2M Monde (360p)
-#EXTVLCOPT:http-referrer=https://2m.ma
 
 #EXTINF:-1 tvg-name="ABN Africa (480p)" tvg-logo="https://yt3.googleusercontent.com/BhFbqwxiQN89UGI2cpoffye2UuKtblDDUwJHce0fzjpdrMkb0CtKf_42ZVTiLX2Ulwbjey4YZQ=s512-c-k-c0x00ffffff-no-rj" tvg-id="abnafrica" group-title="comoros",ABN Africa (480p)
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
@@ -7134,9 +7107,6 @@ http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-name="Multizonas TV (720p)" tvg-logo="https://i.imgur.com/PD9TCu0.png" tvg-id="multizonastv" group-title="costa_rica",Multizonas TV (720p)
 https://cloudvideo.servers10.com:8081/8068/index.m3u8
 
-#EXTINF:-1 tvg-name="NHK World News (Spanish Subs) (720p)" tvg-logo="https://i.imgur.com/8dml3im.png" tvg-id="nhkworldnews" group-title="costa_rica",NHK World News (Spanish Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Norte Informativo TV (240p)" tvg-logo="https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg" tvg-id="norteinformativotv" group-title="costa_rica",Norte Informativo TV (240p)
 https://videohd.live:19360/8076/8076.m3u8
 
@@ -7604,9 +7574,6 @@ https://streamer1.nexgen.bz/MTV/index.m3u8
 
 #EXTINF:-1 tvg-name="MTV Hits Europe" tvg-logo="https://i.imgur.com/zNscEST.png" tvg-id="mtvhitseurope" group-title="cuba",MTV Hits Europe
 http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
-
-#EXTINF:-1 tvg-name="NHK World News (Spanish Subs) (720p)" tvg-logo="https://i.imgur.com/8dml3im.png" tvg-id="nhkworldnews" group-title="cuba",NHK World News (Spanish Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Novelisima" tvg-logo="https://i.imgur.com/8dUS3Ih.png" tvg-id="novelisima" group-title="cuba",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
@@ -8151,9 +8118,6 @@ http://stream01.vnet.am/Perec/mono.m3u8
 #EXTINF:-1 tvg-name="РТР Планета Евро" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" tvg-id="" group-title="denmark",РТР Планета Евро
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 
-#EXTINF:-1 tvg-name="2M Monde (360p)" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-id="2mmonde" group-title="djibouti",2M Monde (360p)
-#EXTVLCOPT:http-referrer=https://2m.ma
-
 #EXTINF:-1 tvg-name="ABN Africa (480p)" tvg-logo="https://yt3.googleusercontent.com/BhFbqwxiQN89UGI2cpoffye2UuKtblDDUwJHce0fzjpdrMkb0CtKf_42ZVTiLX2Ulwbjey4YZQ=s512-c-k-c0x00ffffff-no-rj" tvg-id="abnafrica" group-title="djibouti",ABN Africa (480p)
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
 
@@ -8532,9 +8496,6 @@ https://streamer1.nexgen.bz/MTV/index.m3u8
 #EXTINF:-1 tvg-name="MTV Hits Europe" tvg-logo="https://i.imgur.com/zNscEST.png" tvg-id="mtvhitseurope" group-title="ecuador",MTV Hits Europe
 http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 
-#EXTINF:-1 tvg-name="NHK World News (Spanish Subs) (720p)" tvg-logo="https://i.imgur.com/8dml3im.png" tvg-id="nhkworldnews" group-title="ecuador",NHK World News (Spanish Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Nortvisión (720p)" tvg-logo="https://i.imgur.com/MLzcPgT.jpg" tvg-id="nortvisin" group-title="ecuador",Nortvisión (720p)
 https://plataformavideo.com/live/nortvision.m3u8
 
@@ -8690,9 +8651,6 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 
 #EXTINF:-1 tvg-name="Wuan+ (1080p)" tvg-logo="https://i.imgur.com/pJNx1za.png" tvg-id="wuan" group-title="ecuador",Wuan+ (1080p)
 https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8
-
-#EXTINF:-1 tvg-name="2M Monde (360p)" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-id="2mmonde" group-title="egypt",2M Monde (360p)
-#EXTVLCOPT:http-referrer=https://2m.ma
 
 #EXTINF:-1 tvg-name="ABN Africa (480p)" tvg-logo="https://yt3.googleusercontent.com/BhFbqwxiQN89UGI2cpoffye2UuKtblDDUwJHce0fzjpdrMkb0CtKf_42ZVTiLX2Ulwbjey4YZQ=s512-c-k-c0x00ffffff-no-rj" tvg-id="abnafrica" group-title="egypt",ABN Africa (480p)
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
@@ -9045,9 +9003,6 @@ https://streamer1.nexgen.bz/MTV/index.m3u8
 #EXTINF:-1 tvg-name="MTV Hits Europe" tvg-logo="https://i.imgur.com/zNscEST.png" tvg-id="mtvhitseurope" group-title="el_salvador",MTV Hits Europe
 http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 
-#EXTINF:-1 tvg-name="NHK World News (Spanish Subs) (720p)" tvg-logo="https://i.imgur.com/8dml3im.png" tvg-id="nhkworldnews" group-title="el_salvador",NHK World News (Spanish Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Novelisima" tvg-logo="https://i.imgur.com/8dUS3Ih.png" tvg-id="novelisima" group-title="el_salvador",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 
@@ -9186,9 +9141,6 @@ https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="Angel TV Africa (720p)" tvg-logo="https://i.imgur.com/qKLEGU7.png" tvg-id="angeltvafrica" group-title="equatorial_guinea",Angel TV Africa (720p)
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelafrica_all/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Asonga TV (1080p)" tvg-logo="https://i.imgur.com/Mf3HGqS.png" tvg-id="asongatv" group-title="equatorial_guinea",Asonga TV (1080p)
-https://86060.global.ssl.fastly.net/5ec1843635bd933ad25fe22e/live_e887acc04f7f11edb82e9f05583e4727/index.fmp4.m3u8
-
 #EXTINF:-1 tvg-name="BBC News (720p)" tvg-logo="https://i.imgur.com/vSz2WEp.png" tvg-id="bbcnews" group-title="equatorial_guinea",BBC News (720p)
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 
@@ -9242,9 +9194,6 @@ https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/master.m3u8
 
 #EXTINF:-1 tvg-name="TV BRICS Africa (1080p)" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" tvg-id="tvbricsafrica" group-title="equatorial_guinea",TV BRICS Africa (1080p)
 https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TVGE (480p)" tvg-logo="https://i.imgur.com/iOdHgPd.png" tvg-id="tvge" group-title="equatorial_guinea",TVGE (480p)
-http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ABN Africa (480p)" tvg-logo="https://yt3.googleusercontent.com/BhFbqwxiQN89UGI2cpoffye2UuKtblDDUwJHce0fzjpdrMkb0CtKf_42ZVTiLX2Ulwbjey4YZQ=s512-c-k-c0x00ffffff-no-rj" tvg-id="abnafrica" group-title="eritrea",ABN Africa (480p)
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
@@ -9753,17 +9702,11 @@ https://live-fi.tvkaista.net/star-channel/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="MTV Ava" tvg-logo="https://i.imgur.com/rtyJVgB.png" tvg-id="mtvava" group-title="finland",MTV Ava
 https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv
 
-#EXTINF:-1 tvg-name="Hero" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Hero_color_RGB.png" tvg-id="hero" group-title="finland",Hero
-https://live-fi.tvkaista.net/hero/live.m3u8?src=freetv
-
 #EXTINF:-1 tvg-name="Frii" tvg-logo="https://i.imgur.com/ljKoG9I.png" tvg-id="frii" group-title="finland",Frii
 https://live-fi.tvkaista.net/frii/live.m3u8?src=freetv
 
 #EXTINF:-1 tvg-name="Alfa Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/fi/9/93/IRR-TV-1.png" tvg-id="alfa" group-title="finland",Alfa Ⓢ
 https://irrtv2.digitacdn.net/live/ott/irrtv/playlist.m3u8?organizationId=229401409&suiteItemId=230439940
-
-#EXTINF:-1 tvg-name="TapahtumaTV Eveo" tvg-logo="https://i.imgur.com/sR8nA8w.png" tvg-id="tapahtumatveveo" group-title="finland",TapahtumaTV Eveo
-https://live-fi.tvkaista.net/tapahtumatv-eveo/live.m3u8?src=freetv
 
 #EXTINF:-1 tvg-name="National Geographic Finland Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" tvg-id="nationalgeographicfinland" group-title="finland",National Geographic Finland Ⓖ
 https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=freetv
@@ -11889,12 +11832,6 @@ https://asiakwa.com/thebasetv/index.m3u8
 #EXTINF:-1 tvg-name="TV BRICS Africa (1080p)" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" tvg-id="tvbricsafrica" group-title="ghana",TV BRICS Africa (1080p)
 https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ERT 2" tvg-logo="https://i.imgur.com/pcusPFl.png" tvg-id="ert2" group-title="greece",ERT 2
-http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2medium.m3u8
-
-#EXTINF:-1 tvg-name="ERT 3" tvg-logo="https://i.imgur.com/KyhzDRm.png" tvg-id="ert3" group-title="greece",ERT 3
-http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3medium.m3u8
-
 #EXTINF:-1 tvg-name="ANT1" tvg-logo="https://i.imgur.com/np0s1FN.png" tvg-id="ant1" group-title="greece",ANT1
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8
 
@@ -11918,18 +11855,6 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
 
 #EXTINF:-1 tvg-name="ERT Sports 2" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ertsports2" group-title="greece",ERT Sports 2
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
-
-#EXTINF:-1 tvg-name="ERT Sports 3" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ertsports3" group-title="greece",ERT Sports 3
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8
-
-#EXTINF:-1 tvg-name="ERT Sports 4" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ertsports4" group-title="greece",ERT Sports 4
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4medium.m3u8
-
-#EXTINF:-1 tvg-name="ERT Sports 5" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ertsports5" group-title="greece",ERT Sports 5
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5medium.m3u8
-
-#EXTINF:-1 tvg-name="ERT Sports 6" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ertsports6" group-title="greece",ERT Sports 6
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_6/ert_sports_6medium.m3u8
 
 #EXTINF:-1 tvg-name="Euronews Greek Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="euronewsgreek" group-title="greece",Euronews Greek Ⓨ
 https://www.youtube.com/c/euronewsGreek/live
@@ -12378,9 +12303,6 @@ https://streamer1.nexgen.bz/MTV/index.m3u8
 #EXTINF:-1 tvg-name="MTV Hits Europe" tvg-logo="https://i.imgur.com/zNscEST.png" tvg-id="mtvhitseurope" group-title="guadeloupe",MTV Hits Europe
 http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 
-#EXTINF:-1 tvg-name="NHK World News (Spanish Subs) (720p)" tvg-logo="https://i.imgur.com/8dml3im.png" tvg-id="nhkworldnews" group-title="guadeloupe",NHK World News (Spanish Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Pandamax Channel (1080p)" tvg-logo="https://pandamax.cl/assets/img/pandalogo2.png" tvg-id="pandamaxchannel" group-title="guadeloupe",Pandamax Channel (1080p)
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 
@@ -12638,9 +12560,6 @@ https://streamer1.nexgen.bz/MTV/index.m3u8
 
 #EXTINF:-1 tvg-name="MTV Hits Europe" tvg-logo="https://i.imgur.com/zNscEST.png" tvg-id="mtvhitseurope" group-title="guatemala",MTV Hits Europe
 http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
-
-#EXTINF:-1 tvg-name="NHK World News (Spanish Subs) (720p)" tvg-logo="https://i.imgur.com/8dml3im.png" tvg-id="nhkworldnews" group-title="guatemala",NHK World News (Spanish Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Novelisima" tvg-logo="https://i.imgur.com/8dUS3Ih.png" tvg-id="novelisima" group-title="guatemala",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
@@ -13125,9 +13044,6 @@ http://213.246.39.14:8070/MTV/index.m3u8
 #EXTINF:-1 tvg-name="MTV Hits Europe" tvg-logo="https://i.imgur.com/zNscEST.png" tvg-id="mtvhitseurope" group-title="haiti",MTV Hits Europe
 http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 
-#EXTINF:-1 tvg-name="NHK World News (Spanish Subs) (720p)" tvg-logo="https://i.imgur.com/8dml3im.png" tvg-id="nhkworldnews" group-title="haiti",NHK World News (Spanish Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Pandamax Channel (1080p)" tvg-logo="https://pandamax.cl/assets/img/pandalogo2.png" tvg-id="pandamaxchannel" group-title="haiti",Pandamax Channel (1080p)
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 
@@ -13370,9 +13286,6 @@ https://streamer1.nexgen.bz/MTV/index.m3u8
 
 #EXTINF:-1 tvg-name="MTV Hits Europe" tvg-logo="https://i.imgur.com/zNscEST.png" tvg-id="mtvhitseurope" group-title="honduras",MTV Hits Europe
 http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
-
-#EXTINF:-1 tvg-name="NHK World News (Spanish Subs) (720p)" tvg-logo="https://i.imgur.com/8dml3im.png" tvg-id="nhkworldnews" group-title="honduras",NHK World News (Spanish Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Novelisima" tvg-logo="https://i.imgur.com/8dUS3Ih.png" tvg-id="novelisima" group-title="honduras",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
@@ -15561,9 +15474,6 @@ https://streaming.viewmedia.tv/viewsatstream40/viewsatstream40.smil/playlist.m3u
 #EXTINF:-1 tvg-name="Zagros TV" tvg-logo="https://i.imgur.com/UjIuIQX.png" tvg-id="zagrostv" group-title="iraq",Zagros TV
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="2M Monde (360p)" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-id="2mmonde" group-title="iraq",2M Monde (360p)
-#EXTVLCOPT:http-referrer=https://2m.ma
-
 #EXTINF:-1 tvg-name="Abalfadhl TV (720p)" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" tvg-id="abalfadhltv" group-title="iraq",Abalfadhl TV (720p)
 https://t.northtelecom.org/ABALFADHLTV.m3u8
 
@@ -16383,9 +16293,6 @@ https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Casa Sanremo Tv" tvg-logo="https://i.imgur.com/WL3SFTs.png" tvg-id="casasanremotv" group-title="italy",Casa Sanremo Tv
 https://router.xdevel.com/video0s975911-633/stream/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-name="Castrovillari Tv" tvg-logo="https://i.imgur.com/V0kjYNG.png" tvg-id="castrovillaritv" group-title="italy",Castrovillari Tv
-http://msh0062.stream.seeweb.it/live/flv:stream00.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Cittaceleste Tv" tvg-logo="https://i.imgur.com/9RVriNK.jpeg" tvg-id="cittacelestetv" group-title="italy",Cittaceleste Tv
 https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8
 
@@ -16457,9 +16364,6 @@ https://rst2.saiuzwebnetwork.it:8081/extratvlive/index.m3u8
 
 #EXTINF:-1 tvg-name="FM Tv Marche" tvg-logo="https://i.imgur.com/yY01NhL.jpg" tvg-id="fmtvmarche" group-title="italy",FM Tv Marche
 https://bbtv.intvstream.net:3988/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-name="Fano Tv" tvg-logo="https://i.imgur.com/orqEzJ6.png" tvg-id="fanotv" group-title="italy",Fano Tv
-https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
 
 #EXTINF:-1 tvg-name="Fascino Tv" tvg-logo="https://i.imgur.com/4XYYY5B.png" tvg-id="fascinotv" group-title="italy",Fascino Tv
 https://5f22d76e220e1.streamlock.net/canale157/canale157/playlist.m3u8
@@ -16700,9 +16604,6 @@ https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Rete Oro Tv" tvg-logo="https://i.imgur.com/OCxGtwA.png" tvg-id="reteorotv" group-title="italy",Rete Oro Tv
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Rete Sole" tvg-logo="https://i.imgur.com/u0ezKgE.png" tvg-id="retesole" group-title="italy",Rete Sole
-https://5926fc9c7c5b2.streamlock.net/9332/9332/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Rete Tv Italia" tvg-logo="https://i.imgur.com/lXGWoV9.png" tvg-id="retetvitalia" group-title="italy",Rete Tv Italia
 https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
@@ -18252,9 +18153,6 @@ https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/1
 #EXTINF:-1 tvg-name="РТР Планета Азия" tvg-logo="https://i.imgur.com/DTtK0z7.png" tvg-id="" group-title="japan",РТР Планета Азия
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
 
-#EXTINF:-1 tvg-name="2M Monde (360p)" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-id="2mmonde" group-title="jordan",2M Monde (360p)
-#EXTVLCOPT:http-referrer=https://2m.ma
-
 #EXTINF:-1 tvg-name="Abu Dhabi Sports 1 (1080p)" tvg-logo="https://i.imgur.com/6BVWk8z.png" tvg-id="abudhabisports1" group-title="jordan",Abu Dhabi Sports 1 (1080p)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 
@@ -18672,9 +18570,6 @@ https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
 #EXTINF:-1 tvg-name="РТР Планета Азия" tvg-logo="https://i.imgur.com/DTtK0z7.png" tvg-id="" group-title="kiribati",РТР Планета Азия
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
 
-#EXTINF:-1 tvg-name="KBS 1TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" tvg-id="kbs1tv" group-title="korea",KBS 1TV
-http://ye23.vip/z7z8/2021/kbs2020.php?id=1
-
 #EXTINF:-1 tvg-name="EBS 1 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" tvg-id="ebs1" group-title="korea",EBS 1 Ⓢ
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 
@@ -18914,9 +18809,6 @@ http://202.60.106.14:8080/214/playlist.m3u8
 
 #EXTINF:-1 tvg-name="РТР Планета Азия" tvg-logo="https://i.imgur.com/DTtK0z7.png" tvg-id="" group-title="korea",РТР Планета Азия
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
-
-#EXTINF:-1 tvg-name="2M Monde (360p)" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-id="2mmonde" group-title="kuwait",2M Monde (360p)
-#EXTVLCOPT:http-referrer=https://2m.ma
 
 #EXTINF:-1 tvg-name="Abu Dhabi Sports 1 (1080p)" tvg-logo="https://i.imgur.com/6BVWk8z.png" tvg-id="abudhabisports1" group-title="kuwait",Abu Dhabi Sports 1 (1080p)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
@@ -19326,9 +19218,6 @@ https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f
 #EXTINF:-1 tvg-name="Хочу всё знать (576p)" tvg-logo="https://kabeloperatori.neplpadome.lv/lv/assets/images/Programmu%20logo/hochuvse.png" tvg-id="" group-title="latvia",Хочу всё знать (576p)
 #EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
 
-#EXTINF:-1 tvg-name="2M Monde (360p)" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-id="2mmonde" group-title="lebanon",2M Monde (360p)
-#EXTVLCOPT:http-referrer=https://2m.ma
-
 #EXTINF:-1 tvg-name="Abu Dhabi Sports 1 (1080p)" tvg-logo="https://i.imgur.com/6BVWk8z.png" tvg-id="abudhabisports1" group-title="lebanon",Abu Dhabi Sports 1 (1080p)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 
@@ -19622,9 +19511,6 @@ https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/master.m3u8
 
 #EXTINF:-1 tvg-name="TV BRICS Africa (1080p)" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" tvg-id="tvbricsafrica" group-title="liberia",TV BRICS Africa (1080p)
 https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="2M Monde (360p)" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-id="2mmonde" group-title="libya",2M Monde (360p)
-#EXTVLCOPT:http-referrer=https://2m.ma
 
 #EXTINF:-1 tvg-name="ABN Africa (480p)" tvg-logo="https://yt3.googleusercontent.com/BhFbqwxiQN89UGI2cpoffye2UuKtblDDUwJHce0fzjpdrMkb0CtKf_42ZVTiLX2Ulwbjey4YZQ=s512-c-k-c0x00ffffff-no-rj" tvg-id="abnafrica" group-title="libya",ABN Africa (480p)
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
@@ -20427,9 +20313,6 @@ https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
 #EXTINF:-1 tvg-name="TBN Africa (1080p)" tvg-logo="https://i.imgur.com/6VjLFmR.png" tvg-id="tbnafrica" group-title="malawi",TBN Africa (1080p)
 https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/master.m3u8
 
-#EXTINF:-1 tvg-name="Times TV (720p)" tvg-logo="https://i.imgur.com/T0GjeDl.png" tvg-id="timestv" group-title="malawi",Times TV (720p)
-https://live-par-2-abr-ln-cdn.livepush.io/live_abr_cdn/emDg2JTY15-px4dj/index.m3u8
-
 #EXTINF:-1 tvg-name="TV BRICS Africa (1080p)" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" tvg-id="tvbricsafrica" group-title="malawi",TV BRICS Africa (1080p)
 https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
 
@@ -20832,9 +20715,6 @@ https://streamer1.nexgen.bz/MTV/index.m3u8
 #EXTINF:-1 tvg-name="MTV Hits Europe" tvg-logo="https://i.imgur.com/zNscEST.png" tvg-id="mtvhitseurope" group-title="martinique",MTV Hits Europe
 http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 
-#EXTINF:-1 tvg-name="NHK World News (Spanish Subs) (720p)" tvg-logo="https://i.imgur.com/8dml3im.png" tvg-id="nhkworldnews" group-title="martinique",NHK World News (Spanish Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Pandamax Channel (1080p)" tvg-logo="https://pandamax.cl/assets/img/pandalogo2.png" tvg-id="pandamaxchannel" group-title="martinique",Pandamax Channel (1080p)
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 
@@ -20861,9 +20741,6 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
 #EXTINF:-1 tvg-name="VH1" tvg-logo="https://i.imgur.com/ZZEvehR.png" tvg-id="vh1" group-title="martinique",VH1
 https://streamer1.nexgen.bz/VH1/index.m3u8
-
-#EXTINF:-1 tvg-name="2M Monde (360p)" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-id="2mmonde" group-title="mauritania",2M Monde (360p)
-#EXTVLCOPT:http-referrer=https://2m.ma
 
 #EXTINF:-1 tvg-name="ABN Africa (480p)" tvg-logo="https://yt3.googleusercontent.com/BhFbqwxiQN89UGI2cpoffye2UuKtblDDUwJHce0fzjpdrMkb0CtKf_42ZVTiLX2Ulwbjey4YZQ=s512-c-k-c0x00ffffff-no-rj" tvg-id="abnafrica" group-title="mauritania",ABN Africa (480p)
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
@@ -21008,9 +20885,6 @@ https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/m
 
 #EXTINF:-1 tvg-name="Romanza+ Africa (720p)" tvg-logo="https://i.imgur.com/HYg75w2.png" tvg-id="romanzaafrica" group-title="mauritania",Romanza+ Africa (720p)
 https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Sahara 24 (720p)" tvg-logo="https://i.imgur.com/7RnkkCU.png" tvg-id="sahara24" group-title="mauritania",Sahara 24 (720p)
-https://live.saharamedias.net/sahara24-live/index.m3u8
 
 #EXTINF:-1 tvg-name="TBN Africa (1080p)" tvg-logo="https://i.imgur.com/6VjLFmR.png" tvg-id="tbnafrica" group-title="mauritania",TBN Africa (1080p)
 https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/master.m3u8
@@ -21461,9 +21335,6 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Nayarit Comunica" tvg-logo="https://i.imgur.com/aZCTkjU.jpg" tvg-id="nayaritcomunica" group-title="mexico",Nayarit Comunica
 https://live.iplanay.gob.mx/hls/nayarittv.m3u8
-
-#EXTINF:-1 tvg-name="NHK World News (Spanish Subs) (720p)" tvg-logo="https://i.imgur.com/8dml3im.png" tvg-id="nhkworldnews" group-title="mexico",NHK World News (Spanish Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NMás (1080p)" tvg-logo="https://i.imgur.com/TwBa344.png" tvg-id="nms" group-title="mexico",NMás (1080p)
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
@@ -22262,9 +22133,6 @@ https://rdn.essastream.com:3388/live/dajatvlive.m3u8
 
 #EXTINF:-1 tvg-name="TVE Star HD (1080p)" tvg-logo="https://i.imgur.com/zsCZHMh.png" tvg-id="tvestar" group-title="montserrat",TVE Star HD (1080p)
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
-
-#EXTINF:-1 tvg-name="2M Monde (360p)" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-id="2mmonde" group-title="morocco",2M Monde (360p)
-#EXTVLCOPT:http-referrer=https://2m.ma
 
 #EXTINF:-1 tvg-name="ABN Africa (480p)" tvg-logo="https://yt3.googleusercontent.com/BhFbqwxiQN89UGI2cpoffye2UuKtblDDUwJHce0fzjpdrMkb0CtKf_42ZVTiLX2Ulwbjey4YZQ=s512-c-k-c0x00ffffff-no-rj" tvg-id="abnafrica" group-title="morocco",ABN Africa (480p)
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
@@ -23415,9 +23283,6 @@ https://streamer1.nexgen.bz/MTV/index.m3u8
 #EXTINF:-1 tvg-name="MTV Hits Europe" tvg-logo="https://i.imgur.com/zNscEST.png" tvg-id="mtvhitseurope" group-title="nicaragua",MTV Hits Europe
 http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 
-#EXTINF:-1 tvg-name="NHK World News (Spanish Subs) (720p)" tvg-logo="https://i.imgur.com/8dml3im.png" tvg-id="nhkworldnews" group-title="nicaragua",NHK World News (Spanish Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Novelisima" tvg-logo="https://i.imgur.com/8dUS3Ih.png" tvg-id="novelisima" group-title="nicaragua",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 
@@ -24210,9 +24075,6 @@ https://89ec2d15e090480bb419d940b8793b9c.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-name="РТР Планета Евро" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" tvg-id="" group-title="norway",РТР Планета Евро
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 
-#EXTINF:-1 tvg-name="2M Monde (360p)" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-id="2mmonde" group-title="oman",2M Monde (360p)
-#EXTVLCOPT:http-referrer=https://2m.ma
-
 #EXTINF:-1 tvg-name="Abu Dhabi Sports 1 (1080p)" tvg-logo="https://i.imgur.com/6BVWk8z.png" tvg-id="abudhabisports1" group-title="oman",Abu Dhabi Sports 1 (1080p)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 
@@ -24558,9 +24420,6 @@ http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-name="Nex TV Canal 21 (1080p)" tvg-logo="https://i.imgur.com/QQBd052.png" tvg-id="nextvcanal21" group-title="panama",Nex TV Canal 21 (1080p)
 https://vcp4.myplaytv.com:1936/nextv/nextv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="NHK World News (Spanish Subs) (720p)" tvg-logo="https://i.imgur.com/8dml3im.png" tvg-id="nhkworldnews" group-title="panama",NHK World News (Spanish Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Novelisima" tvg-logo="https://i.imgur.com/8dUS3Ih.png" tvg-id="novelisima" group-title="panama",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 
@@ -24839,9 +24698,6 @@ https://rpn3.bozztv.com/ssh101/ssh101/streaminghd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Next HD (480p)" tvg-logo="https://i.imgur.com/c2rF3SS.png" tvg-id="next" group-title="paraguay",Next HD (480p)
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-
-#EXTINF:-1 tvg-name="NHK World News (Spanish Subs) (720p)" tvg-logo="https://i.imgur.com/8dml3im.png" tvg-id="nhkworldnews" group-title="paraguay",NHK World News (Spanish Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Novelisima" tvg-logo="https://i.imgur.com/8dUS3Ih.png" tvg-id="novelisima" group-title="paraguay",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
@@ -25166,9 +25022,6 @@ http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-name="Nacional Tv Peru" tvg-logo="https://i.imgur.com/ad0GNqa.png" tvg-id="nacionaltvperu" group-title="peru",Nacional Tv Peru
 https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
-
-#EXTINF:-1 tvg-name="NHK World News (Spanish Subs) (720p)" tvg-logo="https://i.imgur.com/8dml3im.png" tvg-id="nhkworldnews" group-title="peru",NHK World News (Spanish Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Novelisima" tvg-logo="https://i.imgur.com/8dUS3Ih.png" tvg-id="novelisima" group-title="peru",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
@@ -26094,9 +25947,6 @@ http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-name="NG Radio TV (360p)" tvg-logo="https://i.imgur.com/KsNI3vQ.jpg" tvg-id="ngradiotv" group-title="puerto_rico",NG Radio TV (360p)
 https://5cb1ee4d59ac0.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="NHK World News (Spanish Subs) (720p)" tvg-logo="https://i.imgur.com/8dml3im.png" tvg-id="nhkworldnews" group-title="puerto_rico",NHK World News (Spanish Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Novelisima" tvg-logo="https://i.imgur.com/8dUS3Ih.png" tvg-id="novelisima" group-title="puerto_rico",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 
@@ -26261,9 +26111,6 @@ https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassFour
 
 #EXTINF:-1 tvg-name="Al Araby TV" tvg-logo="https://i.imgur.com/YMqWEe4.png" tvg-id="alarabytv" group-title="qatar",Al Araby TV
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="2M Monde (360p)" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-id="2mmonde" group-title="qatar",2M Monde (360p)
-#EXTVLCOPT:http-referrer=https://2m.ma
 
 #EXTINF:-1 tvg-name="Abu Dhabi Sports 1 (1080p)" tvg-logo="https://i.imgur.com/6BVWk8z.png" tvg-id="abudhabisports1" group-title="qatar",Abu Dhabi Sports 1 (1080p)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
@@ -27642,9 +27489,6 @@ https://streamer1.nexgen.bz/MTV/index.m3u8
 #EXTINF:-1 tvg-name="MTV Hits Europe" tvg-logo="https://i.imgur.com/zNscEST.png" tvg-id="mtvhitseurope" group-title="saint_barthélemy",MTV Hits Europe
 http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 
-#EXTINF:-1 tvg-name="NHK World News (Spanish Subs) (720p)" tvg-logo="https://i.imgur.com/8dml3im.png" tvg-id="nhkworldnews" group-title="saint_barthélemy",NHK World News (Spanish Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Pandamax Channel (1080p)" tvg-logo="https://pandamax.cl/assets/img/pandalogo2.png" tvg-id="pandamaxchannel" group-title="saint_barthélemy",Pandamax Channel (1080p)
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 
@@ -27887,9 +27731,6 @@ http://37.122.156.107:4000/play/a0b7/index.m3u8
 
 #EXTINF:-1 tvg-name="Rotana Music" tvg-logo="https://i.imgur.com/2zFQbQi.png" tvg-id="rotanamusic" group-title="saudi_arabia",Rotana Music
 https://daiconnect.com/live/hls/rotana/music/.m3u8
-
-#EXTINF:-1 tvg-name="2M Monde (360p)" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-id="2mmonde" group-title="saudi_arabia",2M Monde (360p)
-#EXTVLCOPT:http-referrer=https://2m.ma
 
 #EXTINF:-1 tvg-name="Abdulmajeed Abdullah (1080p)" tvg-logo="https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png" tvg-id="abdulmajeedabdullah" group-title="saudi_arabia",Abdulmajeed Abdullah (1080p)
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
@@ -29166,9 +29007,6 @@ https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8
 #EXTINF:-1 tvg-name="Somali National TV Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" tvg-id="somalinationaltv" group-title="somalia",Somali National TV Ⓢ
 https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
 
-#EXTINF:-1 tvg-name="2M Monde (360p)" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-id="2mmonde" group-title="somalia",2M Monde (360p)
-#EXTVLCOPT:http-referrer=https://2m.ma
-
 #EXTINF:-1 tvg-name="ABN Africa (480p)" tvg-logo="https://yt3.googleusercontent.com/BhFbqwxiQN89UGI2cpoffye2UuKtblDDUwJHce0fzjpdrMkb0CtKf_42ZVTiLX2Ulwbjey4YZQ=s512-c-k-c0x00ffffff-no-rj" tvg-id="abnafrica" group-title="somalia",ABN Africa (480p)
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
 
@@ -30444,9 +30282,6 @@ http://stream01.vnet.am/Perec/mono.m3u8
 #EXTINF:-1 tvg-name="РТР Планета Евро" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" tvg-id="" group-title="spain",РТР Планета Евро
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 
-#EXTINF:-1 tvg-name="2M Monde (360p)" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-id="2mmonde" group-title="sudan",2M Monde (360p)
-#EXTVLCOPT:http-referrer=https://2m.ma
-
 #EXTINF:-1 tvg-name="ABN Africa (480p)" tvg-logo="https://yt3.googleusercontent.com/BhFbqwxiQN89UGI2cpoffye2UuKtblDDUwJHce0fzjpdrMkb0CtKf_42ZVTiLX2Ulwbjey4YZQ=s512-c-k-c0x00ffffff-no-rj" tvg-id="abnafrica" group-title="sudan",ABN Africa (480p)
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
 
@@ -30617,12 +30452,6 @@ https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Wanasah (1080p)" tvg-logo="https://i.imgur.com/nLtiXNf.png" tvg-id="wanasah" group-title="sudan",Wanasah (1080p)
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-
-#EXTINF:-1 tvg-name="ATV 2 (1080p)" tvg-logo="https://i.imgur.com/Ud14Mkm.png" tvg-id="atv2" group-title="suriname",ATV 2 (1080p)
-https://ts.suricloud.com:5443/atvlive/streams/atv2.m3u8
-
-#EXTINF:-1 tvg-name="ATV 3 (1080p)" tvg-logo="https://i.imgur.com/KNnHfV1.png" tvg-id="atv3" group-title="suriname",ATV 3 (1080p)
-https://ts.suricloud.com:5443/atvlive/streams/atv3.m3u8
 
 #EXTINF:-1 tvg-name="Galicia TV América (720p)" tvg-logo="https://i.imgur.com/s59AaqG.png" tvg-id="galiciatvamrica" group-title="suriname",Galicia TV América (720p)
 https://america-crtvg.flumotion.com/playlist.m3u8
@@ -31709,9 +31538,6 @@ https://rdn.essastream.com:3388/live/dajatvlive.m3u8
 
 #EXTINF:-1 tvg-name="TVE Star HD (1080p)" tvg-logo="https://i.imgur.com/zsCZHMh.png" tvg-id="tvestar" group-title="trinidad",TVE Star HD (1080p)
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
-
-#EXTINF:-1 tvg-name="2M Monde (360p)" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-id="2mmonde" group-title="tunisia",2M Monde (360p)
-#EXTVLCOPT:http-referrer=https://2m.ma
 
 #EXTINF:-1 tvg-name="ABN Africa (480p)" tvg-logo="https://yt3.googleusercontent.com/BhFbqwxiQN89UGI2cpoffye2UuKtblDDUwJHce0fzjpdrMkb0CtKf_42ZVTiLX2Ulwbjey4YZQ=s512-c-k-c0x00ffffff-no-rj" tvg-id="abnafrica" group-title="tunisia",ABN Africa (480p)
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
@@ -33876,9 +33702,6 @@ https://streamer1.nexgen.bz/MTV/index.m3u8
 #EXTINF:-1 tvg-name="MTV Hits Europe" tvg-logo="https://i.imgur.com/zNscEST.png" tvg-id="mtvhitseurope" group-title="uruguay",MTV Hits Europe
 http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 
-#EXTINF:-1 tvg-name="NHK World News (Spanish Subs) (720p)" tvg-logo="https://i.imgur.com/8dml3im.png" tvg-id="nhkworldnews" group-title="uruguay",NHK World News (Spanish Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Novelisima" tvg-logo="https://i.imgur.com/8dUS3Ih.png" tvg-id="novelisima" group-title="uruguay",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 
@@ -35078,9 +34901,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 
 #EXTINF:-1 tvg-name="Dateline 24/7" tvg-logo="https://i.imgur.com/8mAJuut.png" tvg-id="dateline247" group-title="usa",Dateline 24/7
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
-
-#EXTINF:-1 tvg-name="Daystar TV (720p)" tvg-logo="https://i.imgur.com/IjzCv8f.png" tvg-id="daystartv" group-title="usa",Daystar TV (720p)
-https://hls-live-media.cdn01.net/dvr/stream_37099_1.m3u8
 
 #EXTINF:-1 tvg-name="DC Council Channel (1080p)" tvg-logo="https://i.imgur.com/YBWbiWZ.png" tvg-id="dccouncilchannel" group-title="usa",DC Council Channel (1080p)
 https://video.oct.dc.gov/out/u/15_12.m3u8
@@ -38307,9 +38127,6 @@ https://streamer1.nexgen.bz/MTV/index.m3u8
 #EXTINF:-1 tvg-name="MTV Hits Europe" tvg-logo="https://i.imgur.com/zNscEST.png" tvg-id="mtvhitseurope" group-title="venezuela",MTV Hits Europe
 http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 
-#EXTINF:-1 tvg-name="NHK World News (Spanish Subs) (720p)" tvg-logo="https://i.imgur.com/8dml3im.png" tvg-id="nhkworldnews" group-title="venezuela",NHK World News (Spanish Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Novelisima" tvg-logo="https://i.imgur.com/8dUS3Ih.png" tvg-id="novelisima" group-title="venezuela",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 
@@ -38583,9 +38400,6 @@ https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/master.m3u8
 #EXTINF:-1 tvg-name="TV BRICS Africa (1080p)" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" tvg-id="tvbricsafrica" group-title="western_sahara",TV BRICS Africa (1080p)
 https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="2M Monde (360p)" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-id="2mmonde" group-title="yemen",2M Monde (360p)
-#EXTVLCOPT:http-referrer=https://2m.ma
-
 #EXTINF:-1 tvg-name="Abu Dhabi Sports 1 (1080p)" tvg-logo="https://i.imgur.com/6BVWk8z.png" tvg-id="abudhabisports1" group-title="yemen",Abu Dhabi Sports 1 (1080p)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 
@@ -38741,9 +38555,6 @@ https://stream.az-multimedia.com:3793/live/foryoutvlive.m3u8
 
 #EXTINF:-1 tvg-name="GOD TV Africa (576p)" tvg-logo="https://i.imgur.com/hW4g2oe.png" tvg-id="godtvafrica" group-title="zambia",GOD TV Africa (576p)
 https://webstreaming.viewmedia.tv/web_006/Stream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Healing Center TV" tvg-logo="https://i.imgur.com/GQ9yLb0.png" tvg-id="healingcentertv" group-title="zambia",Healing Center TV
-https://pvqybrzodz24-hls-live.5centscdn.com/6164_push_2338_002/3ee2c5e549a41b2a1b5f2fd3789e38a3.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="IBN TV Africa (720p)" tvg-logo="https://i.imgur.com/eKy2ocd.png" tvg-id="ibntvafrica" group-title="zambia",IBN TV Africa (720p)
 http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
