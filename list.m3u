@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="Rai 1" tvg-id="rai1" group-title="italy" tvg-logo="https://i.imgur.com/CAx7yRm.png",Rai 1 HD
-https://streamcdng10-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiuno1/hls/rai1_1200/chunklist.m3u8?baseuri=%2Fraiuno1%2Fhls%2F&tstart=0&tend=1746557366&tk2=3d63fd291b91286cf6d5a132bf5075838c19c84e0a526659fff957ab35f4413f
+https://streamcdnm10-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiuno1/hls/rai1_2400/chunklist.m3u8?baseuri=%2Fraiuno1%2Fhls%2F&tstart=0&tend=1746646097&tk2=9aabd72b73abd8bf19701b5150ae0531e02fc92ee61ed3e51f22bb6759195e7e
 
 #EXTINF:-1 tvg-name="Rai 2" tvg-id="rai2" group-title="italy" tvg-logo="https://i.imgur.com/zA0PTcs.png",Rai 2 HD
-https://streamcdnr11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/rai2_2400/chunklist.m3u8?baseuri=%2Fraidue1%2Fhls%2F&tstart=0&tend=1746557422&tk2=5726a69bcd2823b147ec2598e2e064f39db17605d0cf664b61f9f7a140cea831
+https://streamcdnm2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/rai2_2400/chunklist.m3u8?baseuri=%2Fraidue1%2Fhls%2F&tstart=0&tend=1746646151&tk2=793a66635faf9fd991fd024b9d289f0715161de02e5c77e630a5fbde8792d8a2
 
 #EXTINF:-1 tvg-name="Rai 3" tvg-id="rai3" group-title="italy" tvg-logo="https://i.imgur.com/9kuQCIi.png",Rai 3 HD
-https://streamcdnr11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raitre1/hls/rai3_2400/chunklist.m3u8?baseuri=%2Fraitre1%2Fhls%2F&tstart=0&tend=1746557467&tk2=fb0fe64cce66ae168ef3e56df7615681536a1bb2b365ca1d091bd64cda4c1e9e
+https://streamcdnm2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raitre1/hls/rai3_2400/chunklist.m3u8?baseuri=%2Fraitre1%2Fhls%2F&tstart=0&tend=1746646176&tk2=e893cd7c8179718701de5dd937b95bbf69a33d986b4e4e8c36518f63b2e95a2a
 
 #EXTINF:-1 tvg-name="Rai 4" tvg-id="rai4" group-title="italy" tvg-logo="https://i.imgur.com/XFkZRfv.png",Rai 4 HD
 https://streamcdnm6-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiquattro1/hls/rai4_2400/chunklist.m3u8?baseuri=%2Fraiquattro1%2Fhls%2F&tstart=0&tend=1746560243&tk2=2154154eec4dcc5118605d6eeab8be94757b6b9eed0be630792d535473a27b26
