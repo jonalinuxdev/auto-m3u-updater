@@ -159,6 +159,9 @@ https://www.twitch.tv/topnewsal
 #EXTINF:-1 tvg-name="Tropoja" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-id="tropoja" group-title="albania",Tropoja
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Vizion Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png" tvg-id="vizion" group-title="albania",Vizion Plus
+https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
+
 #EXTINF:-1 tvg-name="3 Plus (1080i)" tvg-logo="https://i.imgur.com/0ZdW9As.png" tvg-id="3" group-title="albania",3 Plus (1080i)
 http://77.83.120.135:8001/play/a19e
 
@@ -4716,6 +4719,9 @@ http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8
 #EXTINF:-1 tvg-name="Love Nature 4K (2160p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" tvg-id="lovenature4k" group-title="canada",Love Nature 4K (2160p)
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Love Nature HD (1080i)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" tvg-id="lovenature" group-title="canada",Love Nature HD (1080i)
+http://78.130.250.2:8023/play/a02m/index.m3u8
+
 #EXTINF:-1 tvg-name="Mad World (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Mad_world.jpg" tvg-id="madworld" group-title="canada",Mad World (720p)
 https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
 
@@ -5948,6 +5954,21 @@ http://1.183.141.194:8001/hls/55/index.m3u8
 
 #EXTINF:-1 tvg-name="Nei Monggol TV 2 Mongolian Culture Channel" tvg-logo="https://i.imgur.com/kpsjahG.png" tvg-id="neimonggoltv2mongolianculturechannel" group-title="china",Nei Monggol TV 2 Mongolian Culture Channel
 http://1.183.141.194:8001/hls/54/index.m3u8
+
+#EXTINF:-1 tvg-name="Nei Monggol TV Agriculture & Animal Channel" tvg-logo="https://i.imgur.com/vTxOVw6.png" tvg-id="neimonggoltvagricultureanimalchannel" group-title="china",Nei Monggol TV Agriculture & Animal Channel
+http://play1-qk.nmtv.cn/live/1686561299036179.m3u8
+
+#EXTINF:-1 tvg-name="Nei Monggol TV Children Channel" tvg-logo="https://i.imgur.com/MOMEgMQ.png" tvg-id="neimonggoltvchildrenchannel" group-title="china",Nei Monggol TV Children Channel
+http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+
+#EXTINF:-1 tvg-name="Nei Monggol TV Culture Entertainment Channel" tvg-logo="https://i.imgur.com/HF8m3oK.png" tvg-id="neimonggoltvcultureentertainmentchannel" group-title="china",Nei Monggol TV Culture Entertainment Channel
+http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
+
+#EXTINF:-1 tvg-name="Nei Monggol TV Economic & Life Channel" tvg-logo="https://i.imgur.com/M4xXzIr.png" tvg-id="neimonggoltveconomiclifechannel" group-title="china",Nei Monggol TV Economic & Life Channel
+http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
+
+#EXTINF:-1 tvg-name="Nei Monggol TV News Channel" tvg-logo="https://i.imgur.com/BaiDNom.png" tvg-id="neimonggoltvnewschannel" group-title="china",Nei Monggol TV News Channel
+http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
 
 #EXTINF:-1 tvg-name="NHK Chinese Vision (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0a/NHK_Huayu_Shijie_Logo.jpg/512px-NHK_Huayu_Shijie_Logo.jpg" tvg-id="nhkchinesevision" group-title="china",NHK Chinese Vision (720p)
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
@@ -9693,17 +9714,11 @@ https://live-fi.tvkaista.net/star-channel/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="MTV Ava" tvg-logo="https://i.imgur.com/rtyJVgB.png" tvg-id="mtvava" group-title="finland",MTV Ava
 https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv
 
-#EXTINF:-1 tvg-name="Hero" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Hero_color_RGB.png" tvg-id="hero" group-title="finland",Hero
-https://live-fi.tvkaista.net/hero/live.m3u8?src=freetv
-
 #EXTINF:-1 tvg-name="Frii" tvg-logo="https://i.imgur.com/ljKoG9I.png" tvg-id="frii" group-title="finland",Frii
 https://live-fi.tvkaista.net/frii/live.m3u8?src=freetv
 
 #EXTINF:-1 tvg-name="Alfa Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/fi/9/93/IRR-TV-1.png" tvg-id="alfa" group-title="finland",Alfa Ⓢ
 https://irrtv2.digitacdn.net/live/ott/irrtv/playlist.m3u8?organizationId=229401409&suiteItemId=230439940
-
-#EXTINF:-1 tvg-name="TapahtumaTV Eveo" tvg-logo="https://i.imgur.com/sR8nA8w.png" tvg-id="tapahtumatveveo" group-title="finland",TapahtumaTV Eveo
-https://live-fi.tvkaista.net/tapahtumatv-eveo/live.m3u8?src=freetv
 
 #EXTINF:-1 tvg-name="National Geographic Finland Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" tvg-id="nationalgeographicfinland" group-title="finland",National Geographic Finland Ⓖ
 https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=freetv
@@ -13878,6 +13893,9 @@ https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u
 #EXTINF:-1 tvg-name="TGRT Europe (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/512px-TGRT_EU.png" tvg-id="tgrteurope" group-title="hungary",TGRT Europe (1080p)
 https://canli.tgrteu.com/tgrteu.m3u8
 
+#EXTINF:-1 tvg-name="The Fishing & Hunting Channel (576i)" tvg-logo="https://i.imgur.com/KcTTnUA.png" tvg-id="thefishinghuntingchannel" group-title="hungary",The Fishing & Hunting Channel (576i)
+http://78.130.250.2:8023/play/a032/index.m3u8
+
 #EXTINF:-1 tvg-name="The Pet Collective (720p)" tvg-logo="https://i.imgur.com/yH7n2dF.png" tvg-id="thepetcollective" group-title="hungary",The Pet Collective (720p)
 https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8
 
@@ -16203,9 +16221,6 @@ https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Casa Sanremo Tv" tvg-logo="https://i.imgur.com/WL3SFTs.png" tvg-id="casasanremotv" group-title="italy",Casa Sanremo Tv
 https://router.xdevel.com/video0s975911-633/stream/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-name="Castrovillari Tv" tvg-logo="https://i.imgur.com/V0kjYNG.png" tvg-id="castrovillaritv" group-title="italy",Castrovillari Tv
-http://msh0062.stream.seeweb.it/live/flv:stream00.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Cittaceleste Tv" tvg-logo="https://i.imgur.com/9RVriNK.jpeg" tvg-id="cittacelestetv" group-title="italy",Cittaceleste Tv
 https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8
 
@@ -16392,9 +16407,6 @@ https://odeon.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
 #EXTINF:-1 tvg-name="Onda Novara Tv" tvg-logo="https://i.imgur.com/Qoh9CFy.png" tvg-id="ondanovaratv" group-title="italy",Onda Novara Tv
 https://585b674743bbb.streamlock.net/9006/9006/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Onda Tv Sicilia" tvg-logo="https://i.imgur.com/0c5Y6lr.png" tvg-id="ondatvsicilia" group-title="italy",Onda Tv Sicilia
-https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Onda Web Radio" tvg-logo="https://i.imgur.com/3hTvrC8.jpg" tvg-id="ondawebradio" group-title="italy",Onda Web Radio
 http://178.33.224.197:1935/ondaradioweb/ondaradioweb/playlist.m3u8
 
@@ -16418,9 +16430,6 @@ https://diretta.arcapuglia.it:8080/live/partenope/index.m3u8
 
 #EXTINF:-1 tvg-name="Peer Tv Alto Adige" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" tvg-id="peertvaltoadige" group-title="italy",Peer Tv Alto Adige
 https://iptv.peer.biz/live/peertv-it.m3u8
-
-#EXTINF:-1 tvg-name="Peer TV Südtirol" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" tvg-id="peertvsdtirol" group-title="italy",Peer TV Südtirol
-https://iptv.peer.biz/live/peertv.m3u8
 
 #EXTINF:-1 tvg-name="Prima Tv Napoli" tvg-logo="https://i.imgur.com/yPuQeEy.jpg" tvg-id="primatvnapoli" group-title="italy",Prima Tv Napoli
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
@@ -26430,6 +26439,9 @@ https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-name="TGRT Europe (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/512px-TGRT_EU.png" tvg-id="tgrteurope" group-title="romania",TGRT Europe (1080p)
 https://canli.tgrteu.com/tgrteu.m3u8
 
+#EXTINF:-1 tvg-name="The Fishing & Hunting Channel (576i)" tvg-logo="https://i.imgur.com/KcTTnUA.png" tvg-id="thefishinghuntingchannel" group-title="romania",The Fishing & Hunting Channel (576i)
+http://78.130.250.2:8023/play/a032/index.m3u8
+
 #EXTINF:-1 tvg-name="The Pet Collective (720p)" tvg-logo="https://i.imgur.com/yH7n2dF.png" tvg-id="thepetcollective" group-title="romania",The Pet Collective (720p)
 https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8
 
@@ -28520,6 +28532,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xi
 
 #EXTINF:-1 tvg-name="National Geographic (1080i)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" tvg-id="nationalgeographic" group-title="slovakia",National Geographic (1080i)
 http://78.130.250.2:8023/play/a02e/index.m3u8
+
+#EXTINF:-1 tvg-name="National Geographic Wild (1080i)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" tvg-id="nationalgeographicwild" group-title="slovakia",National Geographic Wild (1080i)
+http://78.130.250.2:8023/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-name="Óčko (540p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/512px-%C3%93%C4%8Dko_logo_2012.png" tvg-id="ko" group-title="slovakia",Óčko (540p)
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
