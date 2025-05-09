@@ -1,46 +1,47 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="Rai 1" tvg-id="rai1" group-title="italy" tvg-logo="https://i.imgur.com/CAx7yRm.png",Rai 1 HD
-https://streamcdnm9-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raisportuno1/hls/raisport1_2400/chunklist.m3u8?baseuri=%2Fraisportuno1%2Fhls%2F&tstart=0&tend=1746816085&tk2=c6160804627b35122edc98f2197f8aa8462b77df97d285c46f966d346ac7df1e
+https://raiuno1-live.akamaized.net/hls/live/598308/raiuno1/raiuno1/rai1_2400/exp=1746905297~acl=%2fhls%2flive%2f598308%2fraiuno1%2f*!%2fhls%2flive%2f598308-b%2fraiuno1%2f*!%2f*.key~data=hdntl~hmac=b9439dcc73072c8922c9dcc4a8e5b940646edb5671b6abef864a39ee4e3d40a0/chunklist.m3u8?aka_me_session_id=AAAAAAAAAADRqB9oAAAAANuUeBo8GhAFwR2kdNn2fXGkGkIx866UP4VSogsLC3l5xFxEHs4Mzf0FdUz%2fYGIS4u8o2f6LV3XL&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-name="Rai 2" tvg-id="rai2" group-title="italy" tvg-logo="https://i.imgur.com/zA0PTcs.png",Rai 2 HD
-https://streamcdnr14-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/rai2_2400/chunklist.m3u8?baseuri=%2Fraidue1%2Fhls%2F&tstart=0&tend=1746815647&tk2=eec45c72f222018af58ce1516abcf6b1385322a1f60ac5a78769efd0aed8fe83
+https://streamcdnm8-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/rai2_2400/chunklist.m3u8?baseuri=%2Fraidue1%2Fhls%2F&tstart=0&tend=1746905506&tk2=0cdf4c97ffeb860c60a8556c4b05db7c620adb2c80c282bc79f62f56576bc62c
 
 #EXTINF:-1 tvg-name="Rai 3" tvg-id="rai3" group-title="italy" tvg-logo="https://i.imgur.com/9kuQCIi.png",Rai 3 HD
-https://streamcdnr14-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raitre1/hls/rai3_2400/chunklist.m3u8?baseuri=%2Fraitre1%2Fhls%2F&tstart=0&tend=1746815693&tk2=4ace97962f121e4928a8e370c3a6a732266fb4f246d738a3e59e449f70ae6f07
+https://streamcdnm8-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raitre1/hls/rai3_2400/chunklist.m3u8?baseuri=%2Fraitre1%2Fhls%2F&tstart=0&tend=1746905567&tk2=2decb3bd2d6e954f603548aee78928e90c35cfa7ff2af0d283654e463f66353b
 
 #EXTINF:-1 tvg-name="Rai 4" tvg-id="rai4" group-title="italy" tvg-logo="https://i.imgur.com/XFkZRfv.png",Rai 4 HD
-https://streamcdnm9-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiquattro1/hls/rai4_2400/chunklist.m3u8?baseuri=%2Fraiquattro1%2Fhls%2F&tstart=0&tend=1746815725&tk2=729479e4cc5c70721dabaf39c0622130d9fecc0ab6f04710d604955944457322
+https://streamcdnm8-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiquattro1/hls/rai4_2400/chunklist.m3u8?baseuri=%2Fraiquattro1%2Fhls%2F&tstart=0&tend=1746905600&tk2=1b5c585df19b22d02d009aa80751ed1940b4901decdeba7376ad1b46c3b0ab57
 
 #EXTINF:-1 tvg-name="Rai 5" tvg-id="rai5" group-title="italy" tvg-logo="https://i.imgur.com/Leu2zTO.png",Rai 5 HD
-https://streamcdnm9-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raicinque1/hls/rai5_2400/chunklist.m3u8?baseuri=%2Fraicinque1%2Fhls%2F&tstart=0&tend=1746815746&tk2=eb4f989ddf64cf822607e88bf825219f17a629ee542f462d5f9e00b019ca7b67
+https://streamcdnm8-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raicinque1/hls/rai5_2400/chunklist.m3u8?baseuri=%2Fraicinque1%2Fhls%2F&tstart=0&tend=1746905621&tk2=4f9825a9a33d1752a0724ea8e17f052ddc549b2ad97085ae63b134c0dc59acec
 
 #EXTINF:-1 tvg-name="Rai Movie" tvg-id="raimovie" group-title="italy" tvg-logo="https://i.imgur.com/RKpO8CE.png",Rai Movie
-https://streamcdnm9-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raimovie1/hls/raimovie_2400/chunklist.m3u8?baseuri=%2Fraimovie1%2Fhls%2F&tstart=0&tend=1746815769&tk2=e8e6895c5cf5c7f15f07f5a0ae214862e1d4abb0963a97c412da570f5d32acab
+https://streamcdnm8-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raimovie1/hls/raimovie_2400/chunklist.m3u8?baseuri=%2Fraimovie1%2Fhls%2F&tstart=0&tend=1746905665&tk2=8b5c89c4f3c9a35ead5bc4d460fefba3b5e803686615da5f2def75568d30f224
 
 #EXTINF:-1 tvg-name="Rai Premium" tvg-id="raipremium" group-title="italy" tvg-logo="https://i.imgur.com/RKI4nFy.png",Rai Premium
-https://streamcdnm4-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raipremium1/hls/raipremium_2400/chunklist.m3u8?baseuri=%2Fraipremium1%2Fhls%2F&tstart=0&tend=1746815860&tk2=73af917be71145ade954ef4ab947da926a0034a2556ff54924016227dc624084
+https://streamcdnm8-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raipremium1/hls/raipremium_2400/chunklist.m3u8?baseuri=%2Fraipremium1%2Fhls%2F&tstart=0&tend=1746905723&tk2=c69c43070b49dae3a0604a0e71205552ddb4d28f4601964aca16a5a4adb8bba0
 
 #EXTINF:-1 tvg-name="Rai Gulp" tvg-id="raigulp" group-title="italy" tvg-logo="https://i.imgur.com/lu1DPVb.png",Rai Gulp HD
-https://raigulp1-live.akamaized.net/hls/live/598332/raigulp1/raigulp1/raigulp_2400/exp=1746815720~acl=%2fhls%2flive%2f598332%2fraigulp1%2f*!%2fhls%2flive%2f598332-b%2fraigulp1%2f*!%2f*.key~data=hdntl~hmac=33c43b6870d6c352abb84007fadfe08fccb706b7770e00533a8f8a0ff353f94c/chunklist.m3u8?aka_me_session_id=AAAAAAAAAADoSh5oAAAAANI%2fZtmzXI5PhjVvJRjk+cAeNVFisFpCPupDi2fNgkewQTI5jwl4v2WiYhcSSGXvTfOUzVycQr8b&aka_media_format_type=hls
+https://raigulp1-live.akamaized.net/hls/live/598332/raigulp1/raigulp1/raigulp_2400/exp=1746905573~acl=%2fhls%2flive%2f598332%2fraigulp1%2f*!%2fhls%2flive%2f598332-b%2fraigulp1%2f*!%2f*.key~data=hdntl~hmac=bca451d7086fc235bd672dd15da64ea808a140fd3ac25fdf8102d2169be88bd0/chunklist.m3u8?aka_me_session_id=AAAAAAAAAADlqR9oAAAAAFtbudfG3uxPQz4kQoatCdNyyi04G2Uab49gAlbXecUKP0bylNcYx0cRBB1ZrNz2IJ7GQg5Nk21C&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-name="Rai Yoyo" tvg-id="raiyoyo" group-title="italy" tvg-logo="https://i.imgur.com/DRSa3ys.png",Rai Yoyo HD
-https://raiyoyo1-live.akamaized.net/hls/live/598330/raiyoyo1/raiyoyo1/raiyoyo_2400/exp=1746815763~acl=%2fhls%2flive%2f598330%2fraiyoyo1%2f*!%2fhls%2flive%2f598330-b%2fraiyoyo1%2f*!%2f*.key~data=hdntl~hmac=d9602cc7022e5a9532879dd058f7303f39638bd9c039eb2a7f8b9534b172a59e/chunklist.m3u8?aka_me_session_id=AAAAAAAAAAATSx5oAAAAAPRyL8Rn7aE+M9kyjAsCvnAbGG+HZ92KK1yjf%2fH2+fI2mTNxKvW7i4DPQ+aSLXHIJIhk9w%2f%2f0Szp&aka_media_format_type=hls
+https://streamcdnm8-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiyoyo1/hls/raiyoyo_2400/chunklist.m3u8?baseuri=%2Fraiyoyo1%2Fhls%2F&tstart=0&tend=1746905784&tk2=155ddd2fbbf234b5a297df0afd7df1f807e5855e0f23c7307bfe01cbb052205e
 
 #EXTINF:-1 tvg-name="Rai News 24" tvg-id="rainews24" group-title="italy" tvg-logo="https://i.imgur.com/gdzGwB6.png",Rai News 24
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_2400/exp=1746815788~acl=%2fhls%2flive%2f598326%2frainews1%2f*!%2fhls%2flive%2f598326-b%2frainews1%2f*!%2f*.key~data=hdntl~hmac=a7b61787f1fa9d8add32917868dfe62eab0f2a326909a213ca868bf4fe46ab19/chunklist.m3u8?aka_me_session_id=AAAAAAAAAAAsSx5oAAAAAOaMCD%2fZbN%2fiYpnG6wtZvNa96fD+ffCS3R2tyggaQJ721Rw0Z%2fl8cWf42ZbK1MRKJj3n+m6h%2fzCj&aka_media_format_type=hls
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_2400/exp=1746905647~acl=%2fhls%2flive%2f598326%2frainews1%2f*!%2fhls%2flive%2f598326-b%2frainews1%2f*!%2f*.key~data=hdntl~hmac=4e08194b1d11099cf9721e5b88f61fec66ef1520e9f06273d1013efbbf6d4f50/chunklist.m3u8?aka_me_session_id=AAAAAAAAAAAvqh9oAAAAAADigQapULwfG7MluuwUhj2f79Yt2bogNuejZjWO8G77rLsC589B%2fM43MCEL0aYOtuTicbM1OwBH&aka_media_format_type=hls
 
 #EXTINF:-1 tvg-name="Rai Storia" tvg-id="raistoria" group-title="italy" tvg-logo="https://i.imgur.com/K8y5q8x.png",Rai Storia
-https://streamcdnm2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raistoria1/hls/raistoria_2400/chunklist.m3u8?baseuri=%2Fraistoria1%2Fhls%2F&tstart=0&tend=1746815991&tk2=0932aa9c9a4a45a4d410dbe46130d3d9f94896078972e742c813687844633758
+https://streamcdnm8-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raistoria1/hls/raistoria_2400/chunklist.m3u8?baseuri=%2Fraistoria1%2Fhls%2F&tstart=0&tend=1746905855&tk2=2da69e99031720ea388501fdc614c4dd03488198d41c2888b6e73b55650eee87
 
 #EXTINF:-1 tvg-name="Rai Scuola" tvg-id="raiskuola" group-title="italy" tvg-logo="https://i.imgur.com/tmtJW6s.png",Rai Scuola HD
-https://streamcdnm2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raistoria1/hls/raistoria_2400/chunklist.m3u8?baseuri=%2Fraistoria1%2Fhls%2F&tstart=0&tend=1746815991&tk2=0932aa9c9a4a45a4d410dbe46130d3d9f94896078972e742c813687844633758
+https://streamcdnm8-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiscuola1/hls/raiscuola_2400/chunklist.m3u8?baseuri=%2Fraiscuola1%2Fhls%2F&tstart=0&tend=1746905889&tk2=a531d1e53a3fc876c5bed3aa8f3a8aa3f0eae20b3696b9236d1b7f2f82568240
 
 #EXTINF:-1 tvg-name="Rai Sport" tvg-id="raisport" group-title="italy" tvg-logo="https://i.imgur.com/xsGljsb.png",Rai Sport HD
-https://streamcdnm9-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raisportuno1/hls/raisport1_2400/chunklist.m3u8?baseuri=%2Fraisportuno1%2Fhls%2F&tstart=0&tend=1746816085&tk2=c6160804627b35122edc98f2197f8aa8462b77df97d285c46f966d346ac7df1e
+https://streamcdnm8-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raisportuno1/hls/raisport1_2400/chunklist.m3u8?baseuri=%2Fraisportuno1%2Fhls%2F&tstart=0&tend=1746905930&tk2=fb1901b5645fee229a88b444e2f89b1d0dda8d7af140b6aca9cae9614a129791
 
 #EXTINF:-1 tvg-name="Rai Radio 2" tvg-id="rairadio2" group-title="italy" tvg-logo="https://i.imgur.com/nVBet0h.png",Rai Radio 2 HD
-https://streamcdnm9-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rairadiodue1/hls/rairadio2_2400/chunklist.m3u8?baseuri=%2Frairadiodue1%2Fhls%2F&tstart=0&tend=1746816108&tk2=04168f7bd6582b0e11f47674448be2c03d7ed22b3902e64bbc788cf88bc246e3
+https://streamcdnm8-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rairadiodue1/hls/rairadio2_2400/chunklist.m3u8?baseuri=%2Frairadiodue1%2Fhls%2F&tstart=0&tend=1746905958&tk2=13caf5a1bf9f0d793c82a6c7b52a6221461ee28a62ad97d54b592340f0cbb9e2
+
 #EXTINF:-1 tvg-name="ABN Afghanistan (540p)" tvg-logo="https://i.imgur.com/LI30mAt.png" tvg-id="abnafghanistan" group-title="afghanistan",ABN Afghanistan (540p)
 https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
 
