@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="Rai 1" tvg-id="rai1" group-title="italy" tvg-logo="https://i.imgur.com/CAx7yRm.png",Rai 1 HD
-https://raiuno1-live.akamaized.net/hls/live/598308/raiuno1/raiuno1/rai1_2400/exp=1746816347~acl=%2fhls%2flive%2f598308%2fraiuno1%2f*!%2fhls%2flive%2f598308-b%2fraiuno1%2f*!%2f*.key~data=hdntl~hmac=b173cb412d685ff009a734fade0f1334b0cab8e0f021e475f901d67137adf6d8/chunklist.m3u8
+https://streamcdnm9-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raisportuno1/hls/raisport1_2400/chunklist.m3u8?baseuri=%2Fraisportuno1%2Fhls%2F&tstart=0&tend=1746816085&tk2=c6160804627b35122edc98f2197f8aa8462b77df97d285c46f966d346ac7df1e
 
 #EXTINF:-1 tvg-name="Rai 2" tvg-id="rai2" group-title="italy" tvg-logo="https://i.imgur.com/zA0PTcs.png",Rai 2 HD
 https://streamcdnr14-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/rai2_2400/chunklist.m3u8?baseuri=%2Fraidue1%2Fhls%2F&tstart=0&tend=1746815647&tk2=eec45c72f222018af58ce1516abcf6b1385322a1f60ac5a78769efd0aed8fe83
